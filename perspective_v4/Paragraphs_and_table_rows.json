@@ -1,0 +1,867 @@
+[
+  {
+    "id": "P001",
+    "section": "Abstract",
+    "text": "Magnesium electrolytes challenge a familiar design rule: bringing anions into the first solvation shell can improve metal deposition, yet weak ion pairing can also work. We argue that the useful question is which step anion coordination changes. A coordinating anion can assist ligand release, change interfacial rearrangement or suppress solvent reduction before it becomes a possible source of an interphase. Its molecular role should therefore be assessed as desolvation energy regulation; the stronger term desolvation catalysis requires evidence that the active anion is recovered for repeated use. Representative electrolyte strategies suggest several routes to magnesium transfer, rather than one preferred shell. We use these results to set evidence thresholds, distinguish molecular effects from surface activation and propose a research sequence that connects controlled coordination changes to both electrodes. The decisive advance will be a mechanism that predicts how transfer responds to a new chemical condition. This Perspective calls for electrolyte discovery to focus on reaction pathways that can guide design beyond the formulation in which they were first observed.",
+    "references": []
+  },
+  {
+    "id": "P002",
+    "section": "1.1. Why magnesium needs its own electrolyte logic",
+    "text": "An electrolyte for a magnesium-metal battery must supply species that can release or rearrange their ligands, accept electrons and join the metal. It must sustain this reaction as the surface changes. The early rechargeable prototype combined an organohaloaluminate electrolyte with a Chevrel-phase cathode.[1,2,3] Later work showed how strongly deposition depends on both the liquid and the exposed surface.[4,5] Electrolyte chemistry remains a central constraint on magnesium and other multivalent batteries.[6,7,8,9] We see the next task as explaining how a working formulation delivers magnesium, so that its molecular advantage can guide the design of another formulation.",
+    "references": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9
+    ]
+  },
+  {
+    "id": "P003",
+    "section": "1.1. Why magnesium needs its own electrolyte logic",
+    "text": "Lithium offers useful comparisons, but its familiar interphase logic needs to be reconsidered for magnesium. In many lithium electrolytes, anion participation and lower free-solvent activity help select the compounds that are reduced.[10,11,12] Concentrated formulations also change reaction selectivity and electrode compatibility.[13,14,15] A useful lithium interphase limits electron leakage while allowing ionic transport.[16,17] Similar surface products do not establish similar magnesium transport. Magnesium films often block transfer, although designed interphases can sustain cycling.[18,19,20] The design criterion is a functioning interface under the intended conditions; borrowing a favourable lithium film composition is insufficient.",
+    "references": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20
+    ]
+  },
+  {
+    "id": "P004",
+    "section": "1.1. Why magnesium needs its own electrolyte logic",
+    "text": "The distinction begins with Mg²⁺. It generally binds more strongly than Li⁺ to comparable donors, and its coordination responds strongly to ligand denticity, ion association and local polarization.[21,22] Removing one donor can change the remaining shell; binding an anion can change the charge and geometry of the complex. The species that reacts may therefore differ from the most abundant bulk solvate. This creates the apparent paradox. Lithium-inspired reasoning favours anion participation to form an interphase, while strong-binding reasoning favours anion exclusion to ease desolvation. Both directions have produced successful magnesium electrolytes.[23,24] Neither is a general design rule without identifying the step it improves.",
+    "references": [
+      21,
+      22,
+      23,
+      24
+    ]
+  },
+  {
+    "id": "P005",
+    "section": "1.2. A working recipe needs a reaction mechanism",
+    "text": "A successful recipe is not yet an explanation. Magnesium electrolyte development spans several salt and solvent families,[25,26,27,28] but changing a solvent changes dissolution, ion pairing, exchange and surface reactions together. A lower overpotential can reflect any of these effects. Donor number, mean coordination number and isolated binding energy describe parts of the liquid; none identifies the slow reaction by itself. Calculations already connect magnesium coordination with pairing and decomposition.[22,29,30] The priority is a prediction about a defined transfer step that can guide a composition change.",
+    "references": [
+      25,
+      26,
+      27,
+      28,
+      22,
+      29,
+      30
+    ]
+  },
+  {
+    "id": "P006",
+    "section": "1.2. A working recipe needs a reaction mechanism",
+    "text": "Mg²⁺–solvent, Mg²⁺–anion and anion–solvent interactions form a coupled chemical system. Changing one can change the others. Chloride complexes show why this matters: aggregation may ease ligand release while making electron transfer more difficult.[31,32] The fastest exchange need not give the fastest deposition. Even identical coordination counts can conceal different donors and exchange routes. A design descriptor should identify the starting species, its population and the reaction it undergoes. This information is needed to predict whether a coordination change remains useful when the donor, potential or surface is changed.",
+    "references": [
+      31,
+      32
+    ]
+  },
+  {
+    "id": "P007",
+    "section": "1.2. A working recipe needs a reaction mechanism",
+    "text": "The diversity of magnesium electrolytes should be used to test a mechanism. Organoboron, non-Grignard and alkoxide formulations access different carriers,[33,34,35] while changes to the organic group in Grignard-derived electrolytes can alter electrochemical behaviour.[36] A descriptor developed in one family should therefore be challenged in another. The comparison must retain its chemical meaning: the same defined exchange or transfer step, with solvent and surface conditions stated.",
+    "references": [
+      33,
+      34,
+      35,
+      36
+    ]
+  },
+  {
+    "id": "P008",
+    "section": "1.3. Our position and the criterion for progress",
+    "text": "We propose that a first-shell anion should be selected first for its role in magnesium transfer. Its molecular value is the ability to change how Mg²⁺ releases ligands and rearranges near the electrode. It may replace a donor that is difficult to release, redistribute polarization or stabilize an intermediate that leads to metal deposition. These effects can operate before a film forms. Counterpoised interactions, dynamic solvation and regulation outside the primary shell make this view relevant to current electrolyte design.[24,37,38] Treating the anion mainly as an SEI precursor overlooks a chemical handle on the transfer reaction itself.",
+    "references": [
+      24,
+      37,
+      38
+    ]
+  },
+  {
+    "id": "P009",
+    "section": "1.3. Our position and the criterion for progress",
+    "text": "We use desolvation energy regulator for an anion that changes the relevant release or rearrangement pathway. Desolvation catalyst makes an additional claim: the active anion returns and assists another transfer event. Good cycling and an anion-derived surface product do not demonstrate that return. This Perspective places molecular regulation first, then asks whether the anion is recovered, consumed or trapped. We compare evidence for different routes, set criteria for assigning a mechanism and propose experiments that can change a design decision. The aim is to predict useful magnesium transfer beyond the composition in which it was first demonstrated.",
+    "references": []
+  },
+  {
+    "id": "P010",
+    "section": "1.3. Our position and the criterion for progress",
+    "text": "Here, transferable has a specific meaning. A mechanism should predict how a controlled change in donor, anion or potential affects the limiting reaction in a second chemical environment. The two electrolytes need not contain the same complex. They must preserve the meaning of the proposed design variable and the response used to test it. A mechanism can also have a restricted range: identifying that range is useful progress. What we seek is a rule that states when a coordination change helps, why it helps and when another reaction takes over. This criterion is more demanding than reproducing the composition with the best measured CE.",
+    "references": []
+  },
+  {
+    "id": "P011",
+    "section": "2.1. Weak pairing avoids an unproductive association",
+    "text": "Weak pairing helps when association creates a precursor that exchanges slowly or reacts unfavourably. A solvent-designed Mg(TFSI)₂ electrolyte shows that promoting ion-pair dissociation can support deposition and a high-voltage cathode.[23] Earlier TFSI studies also show that the donor environment and cycling history change the response at magnesium.[39,40,41] Weak pairing removes a particular obstacle. The remaining solvent shell still has to rearrange and avoid reduction. High dissociation and high conductivity are therefore useful observations, but they do not establish an accessible metal-transfer reaction.",
+    "references": [
+      23,
+      39,
+      40,
+      41
+    ]
+  },
+  {
+    "id": "P012",
+    "section": "2.1. Weak pairing avoids an unproductive association",
+    "text": "Weakly coordinating salts test the same question from the anion side. Boron clusters and carboranes extended magnesium chemistry beyond organohalide formulations; modified clusters improved solubility while retaining the intended stability.[42,43,44,45] Fluorinated borates and alkoxyaluminates supplied further routes to less corrosive or high-voltage electrolytes.[46,47,48,49,50] These are distinct chemistries. A bulky anion does not establish a single mechanism or a zero first-shell population. We judge this strategy by whether the remaining solvent shell can deliver magnesium.",
+    "references": [
+      42,
+      43,
+      44,
+      45,
+      46,
+      47,
+      48,
+      49,
+      50
+    ]
+  },
+  {
+    "id": "P013",
+    "section": "2.1. Weak pairing avoids an unproductive association",
+    "text": "Solvent design remains central even with a weakly coordinating salt. Competitive ether coordination can loosen a borate electrolyte's shell, while hydrofluoroether–diglyme mixtures provide another way to alter magnesium solvation.[51,52] The useful test compares populations, exchange and interfacial rates within one controlled series. If dissociation increases while deposition slows, solvent release or a surface reaction may have become limiting. The result would define where weak pairing ceases to help. Finding that boundary is more informative for design than maximizing dissociation without measuring the next step.",
+    "references": [
+      51,
+      52
+    ]
+  },
+  {
+    "id": "P014",
+    "section": "2.1. Weak pairing avoids an unproductive association",
+    "text": "A comparison between carborane and TFSI electrolytes at magnesium is especially useful because it separates anion identity from salt concentration alone.[53] Retain the donor environment and follow both solutions during cycling. If one sustains transfer while the other consumes electrolyte, the difference includes reaction selectivity and surface evolution. The design lesson depends on measuring those changes. The population and reaction must be established for the formulation being tested.",
+    "references": [
+      53
+    ]
+  },
+  {
+    "id": "P015",
+    "section": "2.2. Coordinating anions can help without one universal mechanism",
+    "text": "Chloride chemistry directly challenges the idea that anion coordination necessarily slows magnesium transfer. Structural studies identify chloride complexes whose coordination and charge differ from a solvent-only Mg²⁺ solvate.[54,55,56,57,58,59] Their behaviour depends on magnesium/aluminium speciation, donors and conditioning.[60,61,62,63,64,65,66] Chloride can participate in the approaching complex and alter the surface. We interpret these results as evidence that coordination must be judged within a reaction pathway. They do not imply that placing any anion near magnesium produces the same kinetic benefit.",
+    "references": [
+      54,
+      55,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61,
+      62,
+      63,
+      64,
+      65,
+      66
+    ]
+  },
+  {
+    "id": "P016",
+    "section": "2.2. Coordinating anions can help without one universal mechanism",
+    "text": "Other ligand chemistries reinforce this judgement. Phenolate, phenoxyimine, amido and Hauser-base electrolytes change the identity and reactivity of magnesium species.[67,68,69,70,71] Borohydride concentration and donor choice also affect metal compatibility.[72,73,74] Amine cosolvents and redesigned solvent molecules can improve transfer even when they interact strongly with magnesium.[75,76,77,78] We take their common lesson to be that a binding strength has meaning only within the sequence of reactions it permits. Ranking isolated attractions cannot replace testing that sequence.",
+    "references": [
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73,
+      74,
+      75,
+      76,
+      77,
+      78
+    ]
+  },
+  {
+    "id": "P017",
+    "section": "2.2. Coordinating anions can help without one universal mechanism",
+    "text": "The ion-pairing amine electrolyte makes an important distinction explicit. Bringing anions into the primary shell weakened amine coordination, suppressed solvent reduction and hydrogen evolution, and enabled 99.6% Coulombic efficiency over 800 cycles.[79] The demonstrated gain concerns selectivity; a lower desolvation barrier needs separate evidence. The counterpoised-electrolyte study instead proposes synchronous desolvation while also reporting an MgH₂-containing interphase.[24] These findings support different roles for anion participation. They identify different benefits that must be separated if the first shell is to become a useful design variable.",
+    "references": [
+      79,
+      24
+    ]
+  },
+  {
+    "id": "P018",
+    "section": "2.2. Coordinating anions can help without one universal mechanism",
+    "text": "Chelating anions raise the same issue. MgEDTF forms an anion-containing, unsaturated precursor and reduces plating/stripping overpotential relative to a non-chelating analogue; the authors also attribute a benefit to an anion-derived SEI.[80] Coordination and film effects may therefore operate together. The result does not isolate which effect causes the initial kinetic gain. Table 1 treats such examples as evidence for several possible routes to magnesium transfer. Its purpose is to expose what each strategy changes and what still needs to be tested, rather than rank electrolytes by unmatched performance values.",
+    "references": [
+      80
+    ]
+  },
+  {
+    "id": "P019",
+    "section": "2.2. Coordinating anions can help without one universal mechanism",
+    "text": "The table suggests a decision that a performance database cannot make. Pair dissociation is a plausible priority when association prevents access to reactive magnesium. Changing ligand departure is a different priority when the solvent shell remains persistent. When charge is diverted to solvent reduction or the surface becomes blocking, selectivity or activation may matter more than release. Several effects can coexist in one row. We therefore use the pathway column to state an interpretation to test, not to declare that the rate-limiting step has been identified in every system. The value of the comparison is the different experiment that each interpretation requires.",
+    "references": []
+  },
+  {
+    "id": "P020",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "First-shell occupancy answers how often an anion coordinates magnesium. It does not answer how quickly that state supplies metal. An abundant, stable precursor is useful if it reaches a reactive interfacial state readily. It can instead exchange slowly or feed decomposition.[22,29,30] We therefore judge a coordination change by the barrier from the state actually occupied under operating conditions. Lowering the energy of that state can deepen a trap. Figure 2 shows why stabilization and faster transfer are different claims, and why a favourable coordination structure is an incomplete design target.",
+    "references": [
+      22,
+      29,
+      30
+    ]
+  },
+  {
+    "id": "P021",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "An anion can change the transfer route by replacing a persistent solvent donor, altering the remaining bonds during reduction or helping form a surface-bound intermediate. Anion–solvent interactions can also change association without making the cosolvent the dominant magnesium ligand.[81,82,83] None of these effects requires equal pairwise binding energies. Counterpoise is a proposed explanation for a particular composition, not a universal equality. Regulation outside the first shell and changes in solvent–solvent interactions extend the same reasoning to the surrounding liquid.[38,84] The relevant unit of design is the reacting electrolyte, not an isolated complex.",
+    "references": [
+      81,
+      82,
+      83,
+      38,
+      84
+    ]
+  },
+  {
+    "id": "P022",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "If local precursor states interconvert rapidly compared with magnesium transfer, their effective transfer rate can be approximated by a population-weighted sum:",
+    "references": []
+  },
+  {
+    "id": "P023",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "Here, pᵢ(U) is the population of state i near the interface at potential U, and kᵢ(U) is its transfer rate. Bulk spectral populations need not be those populations. The expression omits transport gradients, surface coverage and competing reactions, and fails when state exchange is slow. It nevertheless gives a clear design insight: deposition can improve because more reactive states become available, because a state reacts faster, or both. Different shell populations can therefore support similar performance through different routes.",
+    "references": []
+  },
+  {
+    "id": "T1R01",
+    "section": "Table 1",
+    "text": "Mg–Al chloride electrolyte/THF | N.V. | N.V. | N.V. | N.V. | 100\n(first cycle) | N.V. | D Surface activation without prolonged conditioning | [63] P",
+    "references": [
+      63
+    ]
+  },
+  {
+    "id": "T1R02",
+    "section": "Table 1",
+    "text": "Mg–Li chloride complex + BTFE (MLCC) | 5 | N.V. | N.V. | N.V. | N.V. | 1200 h\n(Mg||Mg) | A/D Charged carriers and interphase formation | [81] P",
+    "references": [
+      81
+    ]
+  },
+  {
+    "id": "T1R03",
+    "section": "Table 1",
+    "text": "Mg(pftb)₂ + MgCl₂/THF | N.V. | N.V. | N.V. | N.V. | 99.7 | 3000 cycles\n(CE test) | D Transfer sustained by an organic/inorganic interphase | [20] P",
+    "references": [
+      20
+    ]
+  },
+  {
+    "id": "T1R04",
+    "section": "Table 1",
+    "text": "Mg salt/weakly solvated amineᵃ | N.V. | N.V. | N.V. | N.V. | 99.6 | 800 cycles\n(CE test) | C Pairing limits amine reduction and H₂ evolution | [79] P",
+    "references": [
+      79
+    ]
+  },
+  {
+    "id": "T1R05",
+    "section": "Table 1",
+    "text": "0.18 M Mg(TFSI)₂ + 0.1 M LiOTf/DME–TMP | N.V. | N.V. | −0.22 | N.V. | 98 | 450 hᵇ | B/D Modified coordination and phosphate-rich interphase | [82] P/S",
+    "references": [
+      82
+    ]
+  },
+  {
+    "id": "T1R06",
+    "section": "Table 1",
+    "text": "Screened amine electrolyteᵃ | 1 | N.V. | N.V. | 0.060 | N.V. | N.V. | B/D Proposed synchronous release and MgH₂ interphase | [24] P",
+    "references": [
+      24
+    ]
+  },
+  {
+    "id": "T1R07",
+    "section": "Table 1",
+    "text": "MgEDTF/DME;\nMgEDTF + trace halide/DME | N.V. | N.V. | N.V. | 0.24;\n<0.20ᶜ | N.V. | N.V. | B/D Chelating-anion pathway and SEI (control η = 2.0 V) | [80] P",
+    "references": [
+      80
+    ]
+  },
+  {
+    "id": "T1R08",
+    "section": "Table 1",
+    "text": "Mg(CB₁₁H₁₂)₂/G4 | N.V. | N.V. | N.V. | N.V. | >94.4 | N.V. | A Weak coordination through carborane design | [43] S",
+    "references": [
+      43
+    ]
+  },
+  {
+    "id": "T1R09",
+    "section": "Table 1",
+    "text": "Mg-FPB electrolyteᵃ | N.V. | N.V. | N.V. | 0.197 | 95 | N.V. | A Weak coordination through pinacolatoborate design | [47] P",
+    "references": [
+      47
+    ]
+  },
+  {
+    "id": "T1R10",
+    "section": "Table 1",
+    "text": "0.4 M Mg(TFSI)₂/DME–G2–BTFE–TEP | N.V. | 2ᵇ | −0.15 | N.V. | 95.2 | 7000 hᵇ | A Ion-pair dissociation | [23] P/S",
+    "references": [
+      23
+    ]
+  },
+  {
+    "id": "T1R11",
+    "section": "Table 1",
+    "text": "Mg[B(hfip)₄]₂/DME–THF\n(DME:THF = 1:1, v/v) | 10ᵇ | N.V. | N.V. | 0.120 | N.V. | >1200 hᵇ | B Competitive ether release (control: 0.316 V at 8 mA cm⁻²) | [51] P",
+    "references": [
+      51
+    ]
+  },
+  {
+    "id": "T1R12",
+    "section": "Table 1",
+    "text": "0.5 M Mg(TFSI)₂/DME–MOPA-1 | N.V. | N.V. | ≈−0.10 | N.V. | 99.5 | ≈190 hᵇ | B Solvent-shell rearrangement | [75] S",
+    "references": [
+      75
+    ]
+  },
+  {
+    "id": "T1R13",
+    "section": "Table 1",
+    "text": "0.25 M Mg(OTf)₂/G2–MOEA | N.V. | N.V. | −0.13 to\n−0.26 | N.V. | 98.3\n(average) | 8200 cycles (CE);\n>5000 h (Mg||Mg)ᵇ | B/D Mixed coordination and distinct electrode interphases | [85] P/S",
+    "references": [
+      85
+    ]
+  },
+  {
+    "id": "T1R14",
+    "section": "Table 1",
+    "text": "0.3 M EtMgCl/MOB\n(1:2 molar ratio) | 5 | N.V. | N.V. | N.V. | N.V. | >1000 cycles\n(Mg||Mo) | B/D Dipole-regulated release and organic/inorganic film | [86] P",
+    "references": [
+      86
+    ]
+  },
+  {
+    "id": "T1R15",
+    "section": "Table 1",
+    "text": "Mg(OTf)₂ + MgCl₂/DME–TEP | 0.5 | 0.25 | N.V. | N.V. | 99.4 | 3000 h\n(Mg||Mo) | A/D Dissociation and stable interphase | [87] P",
+    "references": [
+      87
+    ]
+  },
+  {
+    "id": "T1R16",
+    "section": "Table 1",
+    "text": "[Mg(THF)₆][AlCl₄]₂ + LiCl/THF | 0.5 | N.V. | N.V. | 0.140/0.140ᵈ | N.V. | N.V. | D Removal of blocking MgCl₂ | [88] P",
+    "references": [
+      88
+    ]
+  },
+  {
+    "id": "T1N",
+    "section": "Table 1",
+    "text": "Pathways: A, avoid persistent association; B, change ligand release or rearrangement; C, suppress side reactions; D, activate the surface or sustain transfer through an interphase. These overlapping assignments are interpretations to test, not proof of the rate-limiting step. P/S labels verify numerical sources, not every pathway assignment. j, current density; Q, areal capacity; Eplate, reported plating potential; η, reported overpotential; CE, Coulombic efficiency. N.V., value not verified in the accessed source. P, original-paper abstract; S, supplied AM Perspective [89] (DOI 10.1002/adma.202417652); P/S, combined sources. ᵃ Complete formulation or solvent identity unverified. ᵇ Values may describe separate tests; j and Q are not automatically the CE/lifetime conditions. In [51], j = 10 applies to η = 0.120 V; cycling j is N.V. In [85], CE and Mg||Mg lifetime are separate tests. Reversible cycling at 20 mA cm⁻² is also reported in [81]. ᶜ With trace Cl⁻/Br⁻. ᵈ Plating/stripping, respectively. Eplate reference conventions remain unverified. Each reference number links to its DOI. Abbreviations: THF, tetrahydrofuran; DME, 1,2-dimethoxyethane; G2/G4, diglyme/tetraglyme; BTFE, bis(2,2,2-trifluoroethyl) ether; TMP/TEP, trimethyl/triethyl phosphate; MOPA-1, 1-methoxy-2-propylamine; MOEA, 2-methoxyethylamine; MOB, 1,4-oxazinane borane; Mg-FPB, magnesium perfluorinated pinacolatoborate; MgEDTF, magnesium salt of EDTF²⁻; pftb, perfluorinated tert-butoxide; hfip, hexafluoroisopropoxide.",
+    "references": [
+      89,
+      51,
+      85,
+      81
+    ]
+  },
+  {
+    "id": "P024",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "Catalysis adds a requirement to this energy argument. The anion must facilitate the relevant rearrangement and return in an active form. For the same overall reaction, a catalyst changes the pathway without changing its equilibrium free-energy difference. Energy regulation is broader because a composition change can also alter precursor stability and selectivity. Dipole regulation and amine activation illustrate how molecular changes accompany evolving surface chemistry.[86,90] A demonstrated pathway change supports regulation. Repeated assistance by the recovered anion supports the stronger catalytic claim.",
+    "references": [
+      86,
+      90
+    ]
+  },
+  {
+    "id": "P025",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "Table 1 supports a clear judgement, even though its entries are not directly comparable. Weak pairing gave 95.2% CE in the supplied summary, whereas an ion-pairing amine formulation gave 99.6% CE over 800 cycles.[23,79,89] The counterpoised formulation reports 0.06 V overpotential at 1 mA cm⁻², and the chelating-anion comparison reduces it from 2.0 to 0.24 V.[24,80] Useful transfer is compatible with different coordination strategies. The next question is which population, exchange step, side reaction or surface change accounts for each gain. That question should determine the next experiment.",
+    "references": [
+      23,
+      79,
+      89,
+      24,
+      80
+    ]
+  },
+  {
+    "id": "P026",
+    "section": "2.3. From anion occupancy to energy regulation",
+    "text": "We would start that experiment by stating what observation could rule out the proposed explanation. If exchange accelerates but the magnesium partial current does not, faster release has not removed the overall limitation. If CE increases with no change in exchange, side-reaction suppression deserves priority. If the benefit persists after the active anion is removed while the surface remains stable, a retained interphase may dominate. These outcomes do not diminish a useful electrolyte. They change which chemical variable should be optimized next. The same apparent performance gain can therefore call for different chemistry.",
+    "references": []
+  },
+  {
+    "id": "P027",
+    "section": "3.1. Define the reaction before comparing energies",
+    "text": "An energy claim needs a defined reaction. Ion-pairing free energy compares associated and dissociated states in a specified liquid. Exchange free energy compares a bound donor with its replacement and the released donor. A desolvation barrier describes the transition between such states. These quantities require consistent charge, composition, solvent activity and reference states. A more negative association energy alone cannot establish faster transfer. The relevant barrier starts from the occupied precursor, including a trapped intermediate if one forms.[22,31]",
+    "references": [
+      22,
+      31
+    ]
+  },
+  {
+    "id": "P028",
+    "section": "3.1. Define the reaction before comparing energies",
+    "text": "Cluster calculations identify plausible donors and reaction sites, but a release pathway must also include the liquid. Comparing differently charged complexes or removing solvent without accounting for it can create an irrelevant energy difference. Multidentate shells require conformational sampling and attention to entropy. A useful calculation follows a balanced reaction and states its reference conditions. It should then predict an observable change, such as exchange, population or potential-dependent deposition. We place greater weight on that prediction than on agreement with a single selected structure.",
+    "references": []
+  },
+  {
+    "id": "P029",
+    "section": "3.1. Define the reaction before comparing energies",
+    "text": "Enhanced sampling connects local configurations to free-energy surfaces.[91,92] For anion-assisted release, coordination to solvent and anion, together with distance from the surface, may all matter. Sampling one coordinate can miss a route along another. Reweighting estimates equilibrium properties and uncertainty where sampled distributions overlap; it cannot recover an unvisited transition.[93] Adsorption and reduction also depend on potential, which motivates suitable constant-potential or grand-canonical calculations.[94,30] Our criterion is a predicted experimental ordering that survives reasonable modelling choices. The reaction and reference state must remain explicit.",
+    "references": [
+      91,
+      92,
+      93,
+      94,
+      30
+    ]
+  },
+  {
+    "id": "P030",
+    "section": "3.2. Identify the species that the kinetic model needs",
+    "text": "Spectroscopy should establish which species the kinetic model needs to describe. Raman and infrared bands distinguish donor and anion environments; NMR constrains coordination, association and motion. Magnesium-specific NMR has directly addressed liquid solvation and dynamics.[95] Chloride-complex studies show why methods should be combined across a composition series.[56,57,96,73] The target is a distribution with uncertainty: donor identities, the number of participating atoms and changes in association. A single lowest-energy cluster cannot supply this information. It should be treated as a possible species until the measurements constrain its abundance.",
+    "references": [
+      95,
+      56,
+      57,
+      96,
+      73
+    ]
+  },
+  {
+    "id": "P031",
+    "section": "3.2. Identify the species that the kinetic model needs",
+    "text": "Every method weights species differently. Raman intensity depends on scattering response as well as population. NMR averages environments that exchange rapidly. Several structures can fit a coordination number, especially when one donor molecule contributes several atoms. Calibration, standards, predicted spectra and complementary methods can constrain these ambiguities. A mechanism should retain assignments that the data cannot distinguish. A fitted-shell change becomes persuasive when consistent assumptions support a testable kinetic consequence.",
+    "references": []
+  },
+  {
+    "id": "P032",
+    "section": "3.2. Identify the species that the kinetic model needs",
+    "text": "Chloride–lithium formulations show why charge deserves the same attention as coordination. Changes in clusters alter both donor arrangements and the abundance of charged carriers.[97,81,59] Total magnesium concentration is therefore insufficient to describe transport. Mass spectrometry and crystal structures identify plausible complexes, but ionization and crystallization select species. Near a polarized electrode, a minor bulk species may also become the reactive precursor. Assigning a reacting complex requires evidence at controlled electrode potentials and surfaces, beyond the bulk measurement.",
+    "references": [
+      97,
+      81,
+      59
+    ]
+  },
+  {
+    "id": "P033",
+    "section": "3.2. Identify the species that the kinetic model needs",
+    "text": "Claims of anion exclusion need comparable discipline. A weakly coordinating salt or a shifted vibrational band does not establish zero first-shell occupancy. Report the fraction assigned to associated states, its uncertainty and the exchange regime in which the assignment applies. Then test whether transfer changes with that fraction within the same family. Similar performance in two different shells is a reason to measure exchange and selectivity. A mechanism should explain the difference in molecular behaviour as well as the similarity in cycling.",
+    "references": []
+  },
+  {
+    "id": "P034",
+    "section": "3.2. Identify the species that the kinetic model needs",
+    "text": "Our evidence threshold rises with the strength of the claim. A shell assignment supports association. A matched change in exchange and magnesium-transfer kinetics supports a role in the pathway. Product and current balances show whether the improvement concerns useful transfer or fewer losses. Recovery of an active, kinetically effective anion supports catalysis. This sequence does not require every paper to measure every quantity. It requires the conclusion to stop at the level the evidence supports. The most valuable next measurement is the one that would change the assigned role, rather than repeat an already established structural observation.",
+    "references": []
+  },
+  {
+    "id": "P035",
+    "section": "3.3. Connect exchange times to the rate at the electrode",
+    "text": "A population tells us what is present; a rate tells us whether it can meet the required current. Exchange, diffusion, adsorption, electron transfer and nucleation occur on different time scales. Potential and surface history can change which step is slowest. Weakly paired magnesium may retain solvent for a long time, while an associated complex may rearrange rapidly at the surface. Exchange-sensitive NMR, temperature-dependent measurements and molecular dynamics can test parts of this sequence. The measured process must be identified. A generic relaxation time should not be presented as the rate of desolvation without establishing that connection.",
+    "references": []
+  },
+  {
+    "id": "P036",
+    "section": "3.3. Connect exchange times to the rate at the electrode",
+    "text": "Residence time depends on its definition. Brief departure and rebinding give different continuous and intermittent lifetimes. Report the distance criterion, correlation function, rebinding treatment and sampling length. Diffusion also requires convergence and finite-size checks.[98] Conductivity includes correlated motion, and greater conductivity can reduce polarization without changing ligand release. Transport must therefore be constrained alongside interfacial kinetics. After constraining bulk transport, the remaining kinetic change needs a molecular or surface explanation.",
+    "references": [
+      98
+    ]
+  },
+  {
+    "id": "P037",
+    "section": "3.3. Connect exchange times to the rate at the electrode",
+    "text": "Impedance and current transients constrain the interface, but a fitted resistance does not uniquely identify ligand release. Adsorption, film transport and electron transfer can produce overlapping responses. Temperature dependence gives apparent activation parameters while populations and viscosity change too. Electron-transfer theory helps describe driving force and reorganization,[99] but deposition also changes coordination and the surface. Measurements become decisive when a mechanism predicts how several responses change together. Faster exchange with an unchanged film response supports a different explanation from unchanged exchange with progressive surface activation. A lower overpotential alone selects neither explanation.",
+    "references": [
+      99
+    ]
+  },
+  {
+    "id": "P038",
+    "section": "3.3. Connect exchange times to the rate at the electrode",
+    "text": "A faster molecular step can leave overall deposition unchanged. An associated precursor might release a donor more readily but adsorb less favourably or accept electrons more slowly. Suppressing a side reaction can likewise raise CE without accelerating exchange. These possibilities make a universal binding-energy–efficiency correlation unlikely. We propose measuring a molecular rate and a magnesium-specific interfacial response in the same series. Their joint change should follow a prediction made in advance. A mismatch is useful evidence: it can locate the missing step and show when a descriptor should no longer guide design.",
+    "references": []
+  },
+  {
+    "id": "P039",
+    "section": "3.4. Identify useful reduction and the chemical fate of the anion",
+    "text": "A release pathway is valuable only if it supplies magnesium. Potential-dependent calculations show that coordinated solvent can react in the double layer and that deposition competes with thermodynamically favourable decomposition.[30,29] Orbital energies suggest possible reaction sites; molecular relaxation, surrounding solvent, bond cleavage and barriers determine which reaction occurs. We therefore judge a cathodic stability claim by the useful metal-transfer fraction under a stated protocol. A low fitted barrier or a cathodic current onset does not establish selective transfer. The products and the deposited metal must enter the assessment.",
+    "references": [
+      30,
+      29
+    ]
+  },
+  {
+    "id": "P040",
+    "section": "3.4. Identify useful reduction and the chemical fate of the anion",
+    "text": "Current needs a material balance. Deposited magnesium, recovered charge, gas, soluble products and film growth constrain different losses. Instantaneous magnesium partial current differs from cycle-integrated CE, while chemical corrosion can consume metal without the same faradaic signal. Early plating studies and later interphase work make these distinctions important for magnesium.[100,3,77] Operando mass-sensitive measurements are useful when passivation forms or dissolves during conditioning.[101] Their interpretation must account for coupled solvent, porosity and changing surface area. The goal is to identify where charge and magnesium go during the proposed kinetic improvement.",
+    "references": [
+      100,
+      3,
+      77,
+      101
+    ]
+  },
+  {
+    "id": "P041",
+    "section": "3.4. Identify useful reduction and the chemical fate of the anion",
+    "text": "Anion recovery is the additional test for catalysis. Follow the active anion and its products as magnesium throughput increases, then ask whether the recovered species still affects transfer after surface history is controlled. Survival alone can describe an inert spectator. Persistent enhancement can reflect continued consumption from a large reservoir. A catalytic assignment needs pathway evidence, sustained kinetic assistance and recovery of the active species. Table 2 sets out these thresholds. They allow a useful electrolyte to have several functions while preventing a high efficiency or a surface spectrum from deciding which function is responsible.",
+    "references": []
+  },
+  {
+    "id": "T2R01",
+    "section": "Table 2",
+    "text": "Outer-shell effect | Changes solvent activity or mobility without predominant Mg coordination | Locate the additive and test transfer at matched conditions; distinguish direct Mg coordination | [38]",
+    "references": [
+      38
+    ]
+  },
+  {
+    "id": "T2R02",
+    "section": "Table 2",
+    "text": "Desolvation energy regulation | Changes ligand release or interfacial rearrangement | A defined pathway and matched kinetic change; separate effects of film growth | [24,75]",
+    "references": [
+      24,
+      75
+    ]
+  },
+  {
+    "id": "T2R03",
+    "section": "Table 2",
+    "text": "Desolvation catalysis | Assists repeated transfer and returns in an active form | Pathway evidence, sustained rate assistance and active-anion recovery; CE alone is insufficient | Candidate role; not established by these comparators",
+    "references": []
+  },
+  {
+    "id": "T2R04",
+    "section": "Table 2",
+    "text": "Reaction selectivity | Suppresses solvent or anion side reactions | Mg partial current and gas/product balance; exchange need not accelerate | [79,30]",
+    "references": [
+      79,
+      30
+    ]
+  },
+  {
+    "id": "T2R05",
+    "section": "Table 2",
+    "text": "Sacrificial activation or SEI formation | Is consumed to activate or protect the surface | Anion loss, retained surface effects and the cost of activation or continued consumption | [20,80]",
+    "references": [
+      20,
+      80
+    ]
+  },
+  {
+    "id": "T2R06",
+    "section": "Table 2",
+    "text": "Kinetic trapping | Stabilizes a precursor that escapes or transfers slowly | Residence and escape/transfer barriers from the occupied state; low energy alone is insufficient | [31,22]",
+    "references": [
+      31,
+      22
+    ]
+  },
+  {
+    "id": "T2R07",
+    "section": "Table 2",
+    "text": "Coupled molecular and film effects | Changes coordination and also builds a useful interphase | Independent evidence for molecular assistance and the retained film contribution | [87,86]",
+    "references": [
+      87,
+      86
+    ]
+  },
+  {
+    "id": "T2N",
+    "section": "Table 2",
+    "text": "These are proposed evidence thresholds, not mutually exclusive electrolyte classes or an existing consensus. References provide examples and comparators; they do not establish every function. Catalysis requires recovery of an active facilitator. The outer-shell comparator includes a neutral additive.",
+    "references": []
+  },
+  {
+    "id": "P042",
+    "section": "4.1. Open an accessible transfer route",
+    "text": "The first design objective is to increase useful magnesium transfer at the intended current. This may require more reactive precursors, faster rearrangement or fewer side reactions. Solvent redesign, amine assistance and phosphate-containing environments show that the whole pathway matters.[78,75,85,102] Pairing and weak pairing can both remove a limitation.[79,23] A ligand must support dissolution and transport, then release or rearrange when needed. An anion is useful if it improves that connection without creating a persistent trap or a dominant decomposition route. The target is the reaction sequence that supplies metal.",
+    "references": [
+      78,
+      75,
+      85,
+      102,
+      79,
+      23
+    ]
+  },
+  {
+    "id": "P043",
+    "section": "4.1. Open an accessible transfer route",
+    "text": "Denticity and steric structure can change that sequence. A chelating donor can bind strongly yet release through successive rearrangements. Mixed shells can offer donors with different departure rates. Cyclic and linear ethers can therefore behave differently despite similar familiar descriptors.[51] Boronic-ester additives and coupled solvation–interface strategies explore related effects.[103,104,105] The comparison should identify the chemical change and the step it improves. Similar cycling gains do not establish a shared elementary reaction or a common optimum coordination number.",
+    "references": [
+      51,
+      103,
+      104,
+      105
+    ]
+  },
+  {
+    "id": "P044",
+    "section": "4.1. Open an accessible transfer route",
+    "text": "The surrounding liquid also matters. A cosolvent can change counterion availability without occupying most magnesium sites. In amine electrolytes, ionization and proton transfer can create new charged species and affect hydrogen evolution.[83,90] These changes need to be measured. Selecting a favourable cluster while ignoring solution activities may miss the reaction that activates the interface. We therefore include regulation outside the shell within solvation design. The criterion is whether the perturbation changes a magnesium-transfer step or its selectivity, with its location and chemical fate established as far as the evidence allows.",
+    "references": [
+      83,
+      90
+    ]
+  },
+  {
+    "id": "P045",
+    "section": "4.1. Open an accessible transfer route",
+    "text": "We propose screening a weak-pairing control, an electrolyte with a proposed facilitating anion and a persistent associated state. First constrain transport, populations and exchange; then compare interfacial rates on matched surfaces. The mechanism should predict how their ordering changes with potential, temperature or donor substitution. An intermediate composition that performs best would identify a balance between competing processes. It would not establish a universal anion fraction. A useful energy regulator should improve an identified step and also predict the condition under which that improvement disappears.",
+    "references": []
+  },
+  {
+    "id": "P046",
+    "section": "4.1. Open an accessible transfer route",
+    "text": "Salt mixtures provide another controlled perturbation. Magnesium triflate formulations and tetrabutylammonium triflate additives activate solutions that otherwise transfer magnesium poorly.[106,107] Added ions can change association, carrier charge and free-donor availability at the same time. The test must identify which magnesium species changes and whether the added ion reaches either electrode. This is essential in mixed-metal formulations, where a second cation may contribute to cathode storage. Vary anion supply alongside carrier charge and possible contributions at the cathode.",
+    "references": [
+      106,
+      107
+    ]
+  },
+  {
+    "id": "P047",
+    "section": "4.2. Preserve a magnesium interface that continues to transfer",
+    "text": "The second objective is to preserve transfer as the magnesium surface evolves. Adsorption, suppression of solvent reaction, removal of blocking material and persistent films offer different ways to do this.[108,109,88,20] Artificial interfaces and component modifiers add further options.[110,111] A molecular solvation effect can coexist with any of them. If improved kinetics survives electrolyte replacement, a retained surface contribution deserves attention. If it requires the proposed species in solution, continued molecular assistance is more plausible. This distinction should guide the next control experiment instead of being inferred from the original cycling curve.",
+    "references": [
+      108,
+      109,
+      88,
+      20,
+      110,
+      111
+    ]
+  },
+  {
+    "id": "P048",
+    "section": "4.2. Preserve a magnesium interface that continues to transfer",
+    "text": "Conditioning must enter the mechanism. Water/chloride control and operando measurements show that products form and disappear during early cycling.[112,101] Conditioning-free additives and mixed borohydride salts also highlight surface activation.[113,114] The liquid sampled before cycling may differ from the one that later supplies magnesium. Compare fresh and conditioned surfaces, follow composition and account for the charge and material consumed during activation. A mechanism must describe the electrolyte and surface actually used.",
+    "references": [
+      112,
+      101,
+      113,
+      114
+    ]
+  },
+  {
+    "id": "P049",
+    "section": "4.2. Preserve a magnesium interface that continues to transfer",
+    "text": "A useful film needs evidence of transport and persistence. Borohydride-based, gradient and hybrid-interface electrolytes approach this problem differently.[115,116,20] Real transport may involve defects, boundaries or exposed metal rather than the perfect lattice of the dominant compound. Detecting nitrogen, phosphate or hydride products does not establish their conducting role. A calculated migration barrier needs to be tested against the evolving resistance and magnesium balance of the real film. The design standard is a surface layer that sustains selective transfer.",
+    "references": [
+      115,
+      116,
+      20
+    ]
+  },
+  {
+    "id": "P050",
+    "section": "4.2. Preserve a magnesium interface that continues to transfer",
+    "text": "Morphology can improve performance independently of desolvation. Surface kinetics, scaffolds, exposed facets, horizontal platelets and orientation-selective additives change nucleation and current distribution.[117,118,119,120,121] Studies of kinetic versus diffusion-controlled growth and magnesium dendrites in glymes show that metal identity does not fix deposit shape.[122,123] Match deposited capacity, transport and substrate preparation before interpreting a smoother deposit. The proposed molecular change should then predict how morphology responds. This protects a solvation argument from claiming an improvement that was produced mainly by the electrode structure.",
+    "references": [
+      117,
+      118,
+      119,
+      120,
+      121,
+      122,
+      123
+    ]
+  },
+  {
+    "id": "P051",
+    "section": "4.2. Preserve a magnesium interface that continues to transfer",
+    "text": "Impurity tolerance also belongs to a specified formulation. A hybrid AlCl₃/MgCl₂/Mg(TFSI)₂ electrolyte retained activity after 2000 ppm water was introduced.[124] This result shows tolerance through that system's chemistry; it does not make water harmless elsewhere. A controlled impurity addition can test whether a regulator still changes transfer or mainly removes blocking products. Follow both the liquid and the surface. If a descriptor works only after purification or activation, that requirement should be part of its stated range of validity. Otherwise, a composition-only prediction will fail when the preparation history changes.",
+    "references": [
+      124
+    ]
+  },
+  {
+    "id": "P052",
+    "section": "4.2. Preserve a magnesium interface that continues to transfer",
+    "text": "Electrolyte replacement is a useful future experiment, but it needs its own controls. A new liquid can dissolve or reconstruct a film, change adsorption or alter the surface area. Loss of a kinetic benefit after replacement would then be ambiguous. We propose paired exchange controls and measurements of the retained surface before assigning a continuing molecular contribution. Where a stable swap cannot be achieved, vary the active anion within a series that minimizes these surface changes. The purpose is to separate a need for the coordinating species in solution from a need for the surface that the original solution created.",
+    "references": []
+  },
+  {
+    "id": "P053",
+    "section": "4.3. Keep the same electrolyte useful at the positive electrode",
+    "text": "The third objective is compatibility with the positive electrode. A donor that activates magnesium can introduce oxidation losses, while a stable salt can leave deposition slow. Boron-based designs, non-nucleophilic formulations and fluorinated dialkoxides seek to meet both requirements.[125,126,127,128,129] The intended cathode and current collector must still be tested. Separate corrosion, solvent oxidation and cathode-driven reactions where possible. Exposure to a charged cathode can also change the species returning to magnesium. A compatible formulation must sustain this two-electrode cycle.",
+    "references": [
+      125,
+      126,
+      127,
+      128,
+      129
+    ]
+  },
+  {
+    "id": "P054",
+    "section": "4.3. Keep the same electrolyte useful at the positive electrode",
+    "text": "Anodic onset depends on electrode, area, scan rate and current threshold. A high onset on a small inert electrode can coexist with sustained loss on a porous cathode. Voltage holds and product analysis help distinguish stability from slow reaction or a growing resistive layer. Tetraglyme stability and cathode coatings show how solvent and electrode conditions affect the result.[130,131] The useful design target is an acceptable parasitic loss over the intended protocol. The stability measurement should predict behaviour under that protocol.",
+    "references": [
+      130,
+      131
+    ]
+  },
+  {
+    "id": "P055",
+    "section": "4.3. Keep the same electrolyte useful at the positive electrode",
+    "text": "Cathode chemistry changes the meaning of a successful electrolyte. Sulfur conversion, organic carbonyl storage and enolization require different transfer and solubility behaviour.[132,133,134,135] Anion incorporation has been reported to improve desolvation and charge transfer at a conversion-type magnesium cathode.[136] This supports testing anion assistance at both interfaces. It does not establish the mechanism of metal deposition. Identify the stored species, possible co-insertion and contributions from other ions. A useful electrolyte should retain its molecular advantage in the selected cell while accepting that solvation design cannot remove every limitation within a solid cathode.",
+    "references": [
+      132,
+      133,
+      134,
+      135,
+      136
+    ]
+  },
+  {
+    "id": "P056",
+    "section": "4.3. Keep the same electrolyte useful at the positive electrode",
+    "text": "The final comparison needs one electrolyte at both electrodes and known inventories: magnesium excess, electrolyte volume, cathode loading and capacity limits. Cathode-normalized capacities from conversion or fluorinated-carbon cells do not establish rechargeable insertion or complete-cell energy density.[24,6] Long symmetric cycling can likewise consume substantial metal. We propose comparing the cost of maintaining the kinetic benefit in magnesium and electrolyte loss. A regulator that works only with a large sacrificial reservoir has a different practical value from one that remains active at limited inventory. The complete cell should make that distinction visible.",
+    "references": [
+      24,
+      6
+    ]
+  },
+  {
+    "id": "P057",
+    "section": "4.3. Keep the same electrolyte useful at the positive electrode",
+    "text": "There is no single CE or overpotential threshold that makes every magnesium chemistry practical. The tolerated loss depends on metal excess, electrolyte quantity, delivered capacity and required lifetime. We therefore favour reporting magnesium and electrolyte consumption alongside the useful charge delivered. This would make two otherwise similar kinetic gains distinguishable: one may persist with a small inventory, while the other may be sustained by consumption of excess material. Linking the mechanism to that cost would help choose between molecular regulation and a deliberately sacrificial strategy. Both can be useful, but their routes to a viable cell differ.",
+    "references": []
+  },
+  {
+    "id": "P058",
+    "section": "5.1. Train models on a defined chemical question",
+    "text": "Data-driven screening should answer a defined chemical question. A library of isolated solvent binding energies does not represent an electrolyte without anion identity, concentration and surface conditions. Dynamic-solvation and counterpoised-interaction studies bring molecular descriptors into magnesium screening.[37,24] Their next test is prediction outside the formulations used to develop them. Targets such as association, exchange or a kinetic ordering can be checked experimentally. A single score for electrolyte quality is less informative when the model has not identified which reaction produces the score.",
+    "references": [
+      37,
+      24
+    ]
+  },
+  {
+    "id": "P059",
+    "section": "5.1. Train models on a defined chemical question",
+    "text": "A useful record includes composition, temperature, impurities, substrate and conditioning. Current, deposited capacity, stripping limit and residual magnesium determine how CE should be interpreted. Table 1 makes the missing conditions visible and separates potentials from overpotentials. Bulk coordination, film composition and the proposed mechanism should be separate data fields. Otherwise, a model can learn laboratory practice or salt-family membership while appearing to learn desolvation. The priority is a smaller collection of interpretable comparisons, not a larger collection whose numbers refer to incompatible reactions and protocols.",
+    "references": []
+  },
+  {
+    "id": "P060",
+    "section": "5.1. Train models on a defined chemical question",
+    "text": "Prediction across chemical families needs a deliberate test. Hold out whole anion or solvent families, then compare the proposed mechanism-based model with composition-only and simple physical baselines. Retain failures and negative results. Active learning can select informative experiments, as demonstrated in battery optimization outside magnesium.[137] Here it should select conditions that distinguish dissociation, assisted release, side-reaction suppression and surface activation. Experimental cost and uncertainty remain relevant. A candidate that can disprove a proposed route may be more valuable at this stage than another high-performing composition within a familiar family.",
+    "references": [
+      137
+    ]
+  },
+  {
+    "id": "P061",
+    "section": "5.2. Keep the reaction states explicit across scales",
+    "text": "Molecular dynamics gives populations, diffusion and exchange, but divalent-ion polarization and reactive chemistry need validation. Machine-learning interatomic potentials extend sampling when their training configurations cover the relevant states.[138] Magnesium chloride–amine studies have used them to examine stability and kinetics.[139] Bulk accuracy does not establish surface accuracy. Coordination changes, adsorption and decomposition must enter the validation if the model is to describe them. It should reproduce an appropriate spectrum or exchange trend before its populations are used to predict metal transfer. The model's stated scope should follow the reactions it has actually been tested against.",
+    "references": [
+      138,
+      139
+    ]
+  },
+  {
+    "id": "P062",
+    "section": "5.2. Keep the reaction states explicit across scales",
+    "text": "A reaction network connects bulk species to adsorbed precursors, rearranged intermediates, metal and side products. Potential-dependent energies and rates specify the links where they are known.[30,94] The population-weighted expression in Section 2.3 is one limiting case. Precursor charge must remain explicit: repulsion of a free anion does not establish exclusion of an anion carried by a positively charged magnesium complex. The network should state when the anion leaves, rearranges or reacts. These alternatives predict different potential dependence and different products, giving experiment a way to distinguish them.",
+    "references": [
+      30,
+      94
+    ]
+  },
+  {
+    "id": "P063",
+    "section": "5.2. Keep the reaction states explicit across scales",
+    "text": "At larger scales, those reactions couple to concentration gradients, surface area and changing interfacial resistance. A rate on clean magnesium may stop describing the cell as deposition and passivation proceed. The efficient first step is a small, coherent composition series: measure populations and exchange, predict the kinetic ordering, and test a condition expected to erase or reverse it. Then use the same electrolyte in the intended full cell. Agreement with the predicted response to that perturbation provides stronger mechanistic evidence than fitting the final efficiency alone.",
+    "references": []
+  },
+  {
+    "id": "P064",
+    "section": "5.3. A research sequence for testing transferable pathways",
+    "text": "The immediate priority is a common set of controlled comparisons. Select a weak-pairing electrolyte, a proposed anion-assisted electrolyte and a persistent associated control with compatible metal-surface preparation. Measure a molecular response and a magnesium-specific interfacial response under stated conditions. Include anion and product accounting where a catalytic claim is being tested. The outcome should identify which step is helped and which explanation has been ruled out. This work need not begin with an extensive electrolyte library. A small series that separates dissociation, release and surface activation would provide a firmer basis for design than many cycling records with incomplete conditions.",
+    "references": []
+  },
+  {
+    "id": "P065",
+    "section": "5.3. A research sequence for testing transferable pathways",
+    "text": "The next priority is prediction across chemistry. Change the donor or anion while keeping the proposed kinetic variable well defined, and test the predicted response before optimizing the new composition. A successful prediction would show that the mechanism provides guidance beyond its training or discovery set. A failed prediction should be used to locate the new limiting step and revise the range of the rule. Models should carry uncertainty for unmeasured surface states and competing reactions. This stage would turn descriptors from retrospective explanations into tools for selecting experiments and avoiding modifications that improve one step while worsening the complete transfer route.",
+    "references": []
+  },
+  {
+    "id": "P066",
+    "section": "5.3. A research sequence for testing transferable pathways",
+    "text": "The final priority is to make those predictions survive in cells with limited inventories. Challenge the selected electrolyte at both electrodes, then measure how its molecular benefit changes after cathode exposure, conditioning and repeated deposition. Retain composition and preparation details so that a failure can be traced to a reaction rather than dismissed as a formulation exception. A practical design rule should predict a usable operating range and the loss mechanism outside it. The sequence from a controlled molecular comparison to a new chemical family and then a finite-inventory cell is the research route we propose. Its success would be measured by better decisions about electrolyte chemistry.",
+    "references": []
+  },
+  {
+    "id": "P067",
+    "section": "6.1. Choose an anion for the transfer reaction it enables",
+    "text": "We argue that the first-shell anion should be evaluated as part of the magnesium-transfer reaction before it is evaluated as a possible film precursor. It can assist release, suppress solvent reaction or trap a precursor; its abundance does not distinguish those outcomes. Weak pairing and selected anion-containing shells can both work because they remove different limits on transfer.[23,79,24] The design priority is to identify that limit and the molecular change that relieves it. The resulting mechanism must explain why the benefit appears and predict where it will be lost.",
+    "references": [
+      23,
+      79,
+      24
+    ]
+  },
+  {
+    "id": "P068",
+    "section": "6.1. Choose an anion for the transfer reaction it enables",
+    "text": "Desolvation energy regulator is our preferred description when an anion changes the relevant release or rearrangement route. Desolvation catalyst requires recovery of the active anion for repeated assistance. An SEI precursor is consumed into a surface product whose benefit depends on its transport and persistence. These roles can coexist, but they lead to different design decisions. A regulator calls for control of coordination and exchange. A consumed precursor calls for control of film formation and inventory loss. Identifying the dominant role determines which chemical variables deserve the next optimization.",
+    "references": []
+  },
+  {
+    "id": "P069",
+    "section": "6.2. Make the next experiment distinguish the mechanism",
+    "text": "We propose an evidence standard that connects coordination under stated liquid conditions to a measured kinetic change and a magnesium/product balance. The methods can differ, but the quantities must describe the same formulation under compatible conditions. A bulk shell assignment cannot substitute for a rate; CE cannot substitute for a desolvation barrier. This proposed standard would allow an apparent contradiction between two studies to be traced to a different limiting reaction, surface history or test condition, rather than attributed to incompatible structural preferences.",
+    "references": []
+  },
+  {
+    "id": "P070",
+    "section": "6.2. Make the next experiment distinguish the mechanism",
+    "text": "The near-term priority is a controlled comparison between weak pairing and proposed anion assistance on matched magnesium surfaces. Follow exchange, interfacial response and side products before and after conditioning. Replace or modify the electrolyte while checking that the surface itself has not changed. Track the active anion as magnesium throughput increases. The mechanism should predict a response to potential, donor substitution or anion removal before that response is measured. A prediction that fails defines the boundary of the proposed design rule. Such boundaries are essential if another chemical family is to use the rule.",
+    "references": []
+  },
+  {
+    "id": "P071",
+    "section": "6.3. Engineer pathways that remain useful in a cell",
+    "text": "The longer-term test is an inventory-limited cell using the same electrolyte at both electrodes. Faster release can be offset by oxidation, corrosion, additive consumption or slow cathode storage.[140,6] A useful molecular effect should survive exposure to the cathode and evolution of the magnesium surface. Known metal and electrolyte inventories make its cost measurable. Progress should be judged by the operating range over which the proposed reaction pathway remains selective and useful.",
+    "references": [
+      140,
+      6
+    ]
+  },
+  {
+    "id": "P072",
+    "section": "6.3. Engineer pathways that remain useful in a cell",
+    "text": "A first-shell anion should be chosen for the reaction it enables, then assessed for whether it returns, reacts or becomes trapped. This puts desolvation energy regulation at the centre of molecular design while assigning film formation a separate, testable role. Recovery of the active anion would justify the stronger catalytic claim. The next advance should be a mechanism that correctly predicts a new electrolyte or a new operating condition and retains its benefit in a working cell. Future magnesium electrolyte discovery should move from searching for a favourable solvation structure towards engineering transferable reaction pathways.",
+    "references": []
+  }
+]

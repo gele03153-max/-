@@ -1,0 +1,17 @@
+﻿row,reference_number,key,DOI,source_grade,source_location,values_and_protocol_limits,original_abstract_available
+1,63,R44,10.1039/c6ta01684g,P,Original abstract; first-cycle statement,100% first-cycle CE; protocol current/capacity not verified,True
+2,81,R47,10.1002/aenm.202202602,P,Original abstract; Mg||Mg statements,1200 h at 5 mA cm−2 and a separate reversible-cycling claim at 20 mA cm−2,True
+3,20,R53,10.1002/adma.202203783,P,Original abstract; Mg||Cu/Mg||Mg statement,99.7% CE over 3000 cycles; no assumption that it shares the symmetric-cell lifetime protocol,True
+4,79,R93,10.1002/aenm.202301544,P,Original abstract; ion-pairing electrolyte,99.6% CE for 800 cycles; current/capacity not verified,True
+5,82,R95,10.1002/anie.202304411,P/S,"Original abstract for CE; supplied Perspective p.5 Table 1, source ref.95, for formulation/Eplate/lifetime","98% CE; 0.18 M Mg(TFSI)2 + 0.1 M LiOTf/DME-TMP, reported plating potential -0.22 V and 450 h from secondary summary; current/capacity/reference convention not verified",True
+6,24,NEW26,10.1002/anie.2598559,P,Original abstract; screened amine electrolyte,0.06 V reported overpotential at 1 mA cm−2,True
+7,80,CHELATING,10.1002/anie.6066611,P,Original abstract; chelating versus non-chelating analogue,"2.0 to 0.24 V reported overpotential, further below 0.20 V with halide; comparison current not verified",True
+8,43,R61,10.1002/anie.201412202,S,Supplied AM Perspective p.4; boron-cluster discussion,CE above 94.4%; original protocol not independently audited,True
+9,47,R67,10.1002/anie.201902009,P,Original abstract; Mg-FPB result,95% CE and 197 mV (0.197 V) reported overpotential; current/capacity not verified,True
+10,23,R96,10.1039/d3ee02861e,P/S,"Original abstract for 2 mAh cm-2; supplied Perspective p.5 Table 1, source ref.96, for concentration/Eplate/CE/hours","0.4 M Mg(TFSI)2, -0.15 V reported plating potential, 95.2% CE and 7000 h are secondary-summary values; 2 mAh cm-2 comes from a separate original-abstract test; current/reference convention not verified",True
+11,51,LOOSE,10.1002/eem2.70124,P,Original abstract; MBF/DME–THF and MBF/DME comparisons,120 mV at 10 mA cm−2 versus 316 mV at 8 mA cm−2; currents differ; >1200 h cycling current not verified,True
+12,75,R21,10.1126/science.abg3954,S,"Supplied AM Perspective p.5 Table 1, source ref.21","0.5 M Mg(TFSI)2/DME-MOPA-1, 99.5% CE, approximately -0.1 V plating potential and approximately 190 h; current/capacity/reference convention not verified",True
+13,85,R72,10.1002/aenm.202301795,P/S,"Original abstract for CE/lifetimes; supplied Perspective p.5 Table 1, source ref.72, for formulation/Eplate",98.3% average CE after 8200 cycles; >5000 h Mg||Mg is a separate test. 0.25 M Mg(OTf)2/G2-MOEA and reported -0.13 to -0.26 V plating range are secondary-summary values; current/capacity/reference convention not verified,True
+14,86,NEWSEP26,10.1021/acs.jpclett.6c02608,P,Original abstract; EMOB composition and Mg||Mo cycling,0.3 M 1:2 EtMgCl/MOB composition; more than 1000 cycles at 5 mA cm-2; no CE inferred,True
+15,87,TEP26,10.1021/acscentsci.6c01164,P,Original abstract; Mg||Mo asymmetric-cell statement,99.4% CE after 3000 h at 0.5 mA cm−2 and 0.25 mAh cm−2,True
+16,88,R49,10.1002/adfm.201909370,P,Original abstract; LiCl-assisted solubilization,"140/140 mV plating/stripping overpotential at 500 μA cm−2, converted exactly to 0.5 mA cm−2",True

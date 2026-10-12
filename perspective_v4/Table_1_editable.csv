@@ -1,0 +1,30 @@
+﻿Electrolyte composition,j (mA cm⁻²),Q (mAh cm⁻²),Eplate (V),η (V),CE (%),Cycle lifespan,Pathway suggested,Ref.
+Mg–Al chloride electrolyte/THF,N.V.,N.V.,N.V.,N.V.,"100
+(first cycle)",N.V.,D Surface activation without prolonged conditioning,[63] P
+Mg–Li chloride complex + BTFE (MLCC),5,N.V.,N.V.,N.V.,N.V.,"1200 h
+(Mg||Mg)",A/D Charged carriers and interphase formation,[81] P
+Mg(pftb)₂ + MgCl₂/THF,N.V.,N.V.,N.V.,N.V.,99.7,"3000 cycles
+(CE test)",D Transfer sustained by an organic/inorganic interphase,[20] P
+Mg salt/weakly solvated amineᵃ,N.V.,N.V.,N.V.,N.V.,99.6,"800 cycles
+(CE test)",C Pairing limits amine reduction and H₂ evolution,[79] P
+0.18 M Mg(TFSI)₂ + 0.1 M LiOTf/DME–TMP,N.V.,N.V.,−0.22,N.V.,98,450 hᵇ,B/D Modified coordination and phosphate-rich interphase,[82] P/S
+Screened amine electrolyteᵃ,1,N.V.,N.V.,0.060,N.V.,N.V.,B/D Proposed synchronous release and MgH₂ interphase,[24] P
+"MgEDTF/DME;
+MgEDTF + trace halide/DME",N.V.,N.V.,N.V.,"0.24;
+<0.20ᶜ",N.V.,N.V.,B/D Chelating-anion pathway and SEI (control η = 2.0 V),[80] P
+Mg(CB₁₁H₁₂)₂/G4,N.V.,N.V.,N.V.,N.V.,>94.4,N.V.,A Weak coordination through carborane design,[43] S
+Mg-FPB electrolyteᵃ,N.V.,N.V.,N.V.,0.197,95,N.V.,A Weak coordination through pinacolatoborate design,[47] P
+0.4 M Mg(TFSI)₂/DME–G2–BTFE–TEP,N.V.,2ᵇ,−0.15,N.V.,95.2,7000 hᵇ,A Ion-pair dissociation,[23] P/S
+"Mg[B(hfip)₄]₂/DME–THF
+(DME:THF = 1:1, v/v)",10ᵇ,N.V.,N.V.,0.120,N.V.,>1200 hᵇ,B Competitive ether release (control: 0.316 V at 8 mA cm⁻²),[51] P
+0.5 M Mg(TFSI)₂/DME–MOPA-1,N.V.,N.V.,≈−0.10,N.V.,99.5,≈190 hᵇ,B Solvent-shell rearrangement,[75] S
+0.25 M Mg(OTf)₂/G2–MOEA,N.V.,N.V.,"−0.13 to
+−0.26",N.V.,"98.3
+(average)","8200 cycles (CE);
+>5000 h (Mg||Mg)ᵇ",B/D Mixed coordination and distinct electrode interphases,[85] P/S
+"0.3 M EtMgCl/MOB
+(1:2 molar ratio)",5,N.V.,N.V.,N.V.,N.V.,">1000 cycles
+(Mg||Mo)",B/D Dipole-regulated release and organic/inorganic film,[86] P
+Mg(OTf)₂ + MgCl₂/DME–TEP,0.5,0.25,N.V.,N.V.,99.4,"3000 h
+(Mg||Mo)",A/D Dissociation and stable interphase,[87] P
+[Mg(THF)₆][AlCl₄]₂ + LiCl/THF,0.5,N.V.,N.V.,0.140/0.140ᵈ,N.V.,N.V.,D Removal of blocking MgCl₂,[88] P
