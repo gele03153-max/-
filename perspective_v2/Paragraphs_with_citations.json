@@ -472,7 +472,7 @@
   {
     "id": "P056",
     "section": "4.2. Principle two Improving magnesium metal compatibility",
-    "text": "Adsorption, chemical stabilization of solution species, and interphase formation provide distinct routes to compatibility. Chloride-containing formulations have motivated analyses of adsorbed species and their effects on passivation.[74,75,76,77,78] Functional amines and phosphates have prompted models involving competitive coordination, interfacial adsorption, and decomposition-derived protection.[79,61,53,30] These models should be treated as alternatives to discriminate, or as processes that coexist under defined conditions. A molecule detected on the surface may be an adsorbate, a reaction product, or a residue introduced during sample handling. Its presence alone does not establish the operative protective mechanism.",
+    "text": "Adsorption, chemical stabilization of solution species, and interphase formation provide distinct routes to compatibility. Studies of controlled surface passivation, intermediate adsorption, borohydride-derived interphases, deposition morphology and hybrid-solvent chemistry illustrate distinct approaches to preserving magnesium transfer.[74,75,76,77,78] Functional amines and phosphates have prompted models involving competitive coordination, interfacial adsorption, and decomposition-derived protection.[79,61,53,30] These models should be treated as alternatives to discriminate, or as processes that coexist under defined conditions. A molecule detected on the surface may be an adsorbate, a reaction product, or a residue introduced during sample handling. Its presence alone does not establish the operative protective mechanism.",
     "references": [
       74,
       75,
@@ -488,12 +488,13 @@
   {
     "id": "P057",
     "section": "4.2. Principle two Improving magnesium metal compatibility",
-    "text": "A useful interphase must suppress undesirable electron transfer or chemical attack without imposing prohibitive resistance to magnesium transport. Chemical composition is a necessary part of that assessment but not a sufficient one. Reports assigning magnesium permeability to a particular nitrogen-, phosphate-, or hydride-containing component require direct transport evidence, consideration of defects and interfaces, and stability during cycling.[21,20,53,30] A low calculated migration barrier in an ideal crystal cannot by itself identify the transport pathway through a heterogeneous electrochemical film. Similarly, detection of a decomposition product should not be equated automatically with either beneficial protection or complete passivation.",
+    "text": "A useful interphase must suppress undesirable electron transfer or chemical attack without imposing prohibitive resistance to magnesium transport. Chemical composition is a necessary part of that assessment but not a sufficient one. Reports assigning magnesium permeability to a particular nitrogen-, phosphate-, or hydride-containing component require direct transport evidence, consideration of defects and interfaces, and stability during cycling.[21,53,30,23,76] A low calculated migration barrier in an ideal crystal cannot by itself identify the transport pathway through a heterogeneous electrochemical film. Similarly, detection of a decomposition product should not be equated automatically with either beneficial protection or complete passivation.",
     "references": [
       21,
-      20,
       53,
-      30
+      30,
+      23,
+      76
     ]
   },
   {

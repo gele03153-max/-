@@ -158,7 +158,7 @@ DOI：[ 10.1016/j.joule.2020.12.021 ](https://doi.org/10.1016/j.joule.2020.12.02
 
 DOI：[ 10.1039/d2ee03270h ](https://doi.org/10.1039/d2ee03270h)
 
-对应段落：P005 / 1.1.；P055 / 4.2.；P057 / 4.2.
+对应段落：P005 / 1.1.；P055 / 4.2.
 
 用途：magnesium chemistry or mechanism。
 
@@ -182,7 +182,7 @@ DOI：[ 10.1126/science.abg3954 ](https://doi.org/10.1126/science.abg3954)
 
 DOI：[ 10.1002/anie.2598559 ](https://doi.org/10.1002/anie.2598559)
 
-对应段落：P006 / 1.1.；P011 / 1.3.；P019 / 2.2.；P066 / 4.3.；P071 / 5.1.；P083 / 6.1.；P090 / 6.3.
+对应段落：P006 / 1.1.；P011 / 1.3.；P019 / 2.2.；P057 / 4.2.；P066 / 4.3.；P071 / 5.1.；P083 / 6.1.；P090 / 6.3.
 
 用途：magnesium chemistry or mechanism。
 
@@ -606,7 +606,7 @@ DOI：[ 10.1021/acsenergylett.9b02211 ](https://doi.org/10.1021/acsenergylett.9b
 
 DOI：[ 10.1021/acsenergylett.4c00757 ](https://doi.org/10.1021/acsenergylett.4c00757)
 
-对应段落：P056 / 4.2.
+对应段落：P056 / 4.2.；P057 / 4.2.
 
 用途：magnesium chemistry or mechanism。
 
