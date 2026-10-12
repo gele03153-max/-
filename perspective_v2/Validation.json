@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "body_prose_words": 9057,
+  "words_including_abstract_headings_captions": 9856,
+  "word_count_convention": "Whitespace-separated English tokens; bibliography excluded in both counts",
+  "references": 100,
+  "unique_dois": 100,
+  "paragraph_reference_links": 167,
+  "crossref_abstracts_available": 41,
+  "figures": 4,
+  "structure": "Six main sections following the supplied PowerPoint framework",
+  "citation_numbering": "Order of first appearance",
+  "pdf_pages": 16,
+  "docx_ooxml_crc": "passed",
+  "reference_paragraph_coverage": "100 of 100",
+  "rendered_page_review": "All 16 final pages inspected, or byte-identical to inspected release pages",
+  "figure_dimensions": {
+    "Figure_1.png": [
+      1536,
+      1024
+    ],
+    "Figure_2.png": [
+      1774,
+      887
+    ],
+    "Figure_3.png": [
+      1774,
+      887
+    ],
+    "Figure_4.png": [
+      1774,
+      887
+    ]
+  }
+}
