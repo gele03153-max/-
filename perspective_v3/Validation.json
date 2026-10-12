@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "body_prose_words": 6091,
+  "table_words": 626,
+  "body_prose_and_tables_words": 6717,
+  "words_with_abstract_headings_captions_and_tables": 7520,
+  "references": 140,
+  "crossref_abstracts_available": 58,
+  "performance_rows": 16,
+  "concept_rows": 7,
+  "citation_links": 211,
+  "docx_zip_crc": "passed",
+  "native_editable_tables": 2,
+  "native_table_rows_including_headers": [
+    17,
+    8
+  ],
+  "table_csv_matches_docx_cells_after_citation_normalization": true,
+  "embedded_main_figures": 4,
+  "native_omml_equations": 1,
+  "pdf_pages": 14,
+  "visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "visual_review_scope": "All final rendered pages inspected for clipping, overlap, pagination, figures, captions and table continuation.",
+  "header_and_footer_pages_verified": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14
+  ],
+  "figure_caption_pages": {
+    "1": 2,
+    "2": 5,
+    "3": 6,
+    "4": 10
+  },
+  "repeated_table_headers": {
+    "Table 1": [
+      3,
+      4
+    ],
+    "Table 2": [
+      7,
+      8
+    ]
+  },
+  "doi_record_identity_matches": 140,
+  "unique_dois": 140,
+  "all_references_cited": true,
+  "bibliography_csv_ris_bibtex_count": 140,
+  "performance_rows_with_source_audit": 16,
+  "reference_verification_scope": "DOI registration records and title identity checked; 58 Crossref abstracts available. Original full texts and supporting information have not all been independently audited.",
+  "performance_verification_scope": "P: numerical statement in accessed original-paper abstract; S: supplied AM Perspective, with source location and limits recorded separately.",
+  "scientific_figure_scope": "Concept diagrams; reaction bookkeeping, schematic barriers, anion regeneration and transport boundaries reviewed. Raster images, not experimental data or editable vector sources.",
+  "figures": [
+    {
+      "file": "Figure_1.png",
+      "pixels": [
+        1774,
+        887
+      ],
+      "format": "PNG"
+    },
+    {
+      "file": "Figure_2.png",
+      "pixels": [
+        1774,
+        887
+      ],
+      "format": "PNG"
+    },
+    {
+      "file": "Figure_3.png",
+      "pixels": [
+        1774,
+        887
+      ],
+      "format": "PNG"
+    },
+    {
+      "file": "Figure_4.png",
+      "pixels": [
+        1774,
+        887
+      ],
+      "format": "PNG"
+    }
+  ],
+  "file_sizes_bytes": {
+    "DOI_140_readable.md": 31280,
+    "Figure_1.png": 1355861,
+    "Figure_2.png": 1421877,
+    "Figure_3.png": 1352999,
+    "Figure_4.png": 1342190,
+    "Figure_scientific_audit.md": 2608,
+    "Magnesium_Perspective_V3.docx": 4708630,
+    "Magnesium_Perspective_V3.pdf": 1171284,
+    "Manuscript_V3.md": 93194,
+    "Paragraphs_and_table_rows.json": 64566,
+    "Performance_data_source_audit.csv": 2774,
+    "README.md": 1519,
+    "Reference_paragraph_table_map.csv": 211598,
+    "References_140.bib": 64361,
+    "References_140.ris": 72333,
+    "References_DOI_140.csv": 49396,
+    "References_metadata.json": 630509,
+    "Table_1_editable.csv": 2426,
+    "Table_2_editable.csv": 1200,
+    "Tables_V3.md": 5025,
+    "V3_中文修改与证据说明.md": 3402
+  }
+}

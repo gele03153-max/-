@@ -1,0 +1,17 @@
+﻿row,reference_number,key,DOI,source_grade,source_location,values_and_protocol_limits,original_abstract_available
+1,63,R44,10.1039/c6ta01684g,P,Original abstract; first-cycle statement,100% first-cycle CE; protocol current/capacity not verified,True
+2,81,R47,10.1002/aenm.202202602,P,Original abstract; Mg||Mg statements,1200 h at 5 mA cm−2 and a separate reversible-cycling claim at 20 mA cm−2,True
+3,20,R53,10.1002/adma.202203783,P,Original abstract; Mg||Cu/Mg||Mg statement,99.7% CE over 3000 cycles; no assumption that it shares the symmetric-cell lifetime protocol,True
+4,79,R93,10.1002/aenm.202301544,P,Original abstract; ion-pairing electrolyte,99.6% CE for 800 cycles; current/capacity not verified,True
+5,82,R95,10.1002/anie.202304411,P,Original abstract; high-entropy electrolyte,98% CE; current/capacity not verified,True
+6,24,NEW26,10.1002/anie.2598559,P,Original abstract; screened amine electrolyte,0.06 V reported overpotential at 1 mA cm−2,True
+7,80,CHELATING,10.1002/anie.6066611,P,Original abstract; chelating versus non-chelating analogue,"2.0 to 0.24 V reported overpotential, further below 0.20 V with halide; comparison current not verified",True
+8,43,R61,10.1002/anie.201412202,S,Supplied AM Perspective p.4; boron-cluster discussion,CE above 94.4%; original protocol not independently audited,True
+9,47,R67,10.1002/anie.201902009,S,Supplied AM Perspective p.4; pinacolatoborate discussion,CE above 95%; original protocol not independently audited,True
+10,23,R96,10.1039/d3ee02861e,P/S,Original abstract for 2 mAh cm−2; supplied Perspective p.5 Table 1 for CE and hours,95.2% CE and 7000 h are secondary-summary values; capacity result is a separate original-abstract statement,True
+11,51,LOOSE,10.1002/eem2.70124,P,Original abstract; MBF/DME–THF and MBF/DME comparisons,120 mV at 10 mA cm−2 versus 316 mV at 8 mA cm−2; currents differ; >1200 h cycling current not verified,True
+12,75,R21,10.1126/science.abg3954,S,"Supplied AM Perspective p.5 Table 1, source ref.21",99.5% CE and approximately −0.1 V plating potential; reference convention not independently verified,True
+13,83,R72,10.1002/aenm.202301795,P,Original abstract; asymmetric-cell cycling,98.3% average CE after 8200 cycles; symmetric-cell >5000 h is a separate test,True
+14,84,NEWSEP26,10.1021/acs.jpclett.6c02608,P,Original abstract; Mg||Mo cycling,More than 1000 cycles at 5 mA cm−2; no CE inferred,True
+15,85,TEP26,10.1021/acscentsci.6c01164,P,Original abstract; Mg||Mo asymmetric-cell statement,99.4% CE after 3000 h at 0.5 mA cm−2 and 0.25 mAh cm−2,True
+16,86,R49,10.1002/adfm.201909370,P,Original abstract; LiCl-assisted solubilization,"140/140 mV plating/stripping overpotential at 500 μA cm−2, converted exactly to 0.5 mA cm−2",True
