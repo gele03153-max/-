@@ -1,0 +1,32 @@
+# 第七版两张主表
+
+Table 1. Representative electrolyte strategies reveal multiple kinetic pathways for magnesium transfer.
+
+| Design strategy | Representative chemistry | Reported Mg CE (%) | Reported readout context | Mechanistic question to test | Source refs. |
+| --- | --- | --- | --- | --- | --- |
+| Weakly coordinating anion | Mg(CB₁₁H₁₂)₂/G4 | >94.4 | Mg reversibility; value compiled by Zhang et al. | Does solvent rearrangement remain accessible as persistent anion association is reduced? | [44] via [86] |
+| Weakly coordinating anion | Mg perfluorinated pinacolatoborate (Mg-FPB) | 95 | Original report of reversible Mg deposition | Does weak anion association leave solvent rearrangement as the main limitation? | [48] |
+| Promote pair dissociation | Mg(TFSI)₂/DME–G2–BTFE–TEP | 95.2 | Mg plating/stripping; value compiled by Zhang et al. | Does dissociation increase reactive precursor availability independently of surface and growth changes? | [24] via [86] |
+| Introduce primary-shell pairing | Weakly solvated amine + strongly coordinating Mg salt | 99.6 | CE reported for 800 cycles | Pairing suppresses amine reduction and H₂ evolution; does ligand exchange also change? | [80] |
+| Reshape solvent coordination | Mg(TFSI)₂/DME–MOPA-1 | 99.5 | Mg plating/stripping; value compiled by Zhang et al. | Does modified solvent coordination speed rearrangement, charge transfer or both? | [76] via [86] |
+| Mixed-ion coordination | Mg(TFSI)₂ + LiOTf/DME–TMP | 98 | Original report of Mg-metal reversibility | How much comes from altered Mg–DME interaction versus the phosphate-rich interface? | [83] |
+| Coordinate salt and solvent | Mg(OTf)₂/G2–MOEA | 98.3 | Asymmetric-cell average CE after 8200 cycles; symmetric lifetime reported separately | How do coordination and distinct electrode interphases share the contribution to reversibility? | [87] |
+| Chloride complexes + interphase | Mg(pftb)₂ + MgCl₂/THF | 99.7 | CE reported over 3000 cycles; symmetric lifetime is separate | Does a retained hybrid interphase sustain transfer when solution coordination is changed? | [20] |
+| Dissociation + interphase | Mg(OTf)₂ + MgCl₂/DME–TEP | 99.4 | Mg\|\|Mo: 0.5 mA cm⁻², 0.25 mAh cm⁻²; CE reported after 3000 h | Can a molecular transfer gain be separated from suppressed losses at the interphase? | [88] |
+| Mixed donors + chloride carrier | Mg(OTf)₂ + MgCl₂/DME–MOEA | >92.3 | Reported Mg CE; donor ratio MOEA:DME = 1:6 (v/v) | Does the gain follow the modified carrier, the surface layer or both when cathode chemistry changes? | [89] |
+
+CE is the shared reported endpoint, not a rate or barrier measurement. Independent protocols and unspecified averaging windows prevent a performance ranking. The readout retains each source's reported context; symmetric lifetime and full-cell efficiency are excluded. Cross-system kinetics require matched current, capacity, substrate, temperature and conditioning. The chemistry identifies the design, not a complete recipe. Mechanistic questions are proposed tests. For the carborane, solvent-designed TFSI and MOPA-1 rows, “via” identifies Zhang et al. [86] as the accessed numerical source; the original study identifies the chemistry. The other values were checked in original abstracts. Protocol and source-access limits are recorded separately. Reference numbers link to DOI records. THF: tetrahydrofuran; DME: 1,2-dimethoxyethane; G2/G4: diglyme/tetraglyme; BTFE: bis(2,2,2-trifluoroethyl) ether; TMP/TEP: trimethyl/triethyl phosphate; MOPA-1: 1-methoxy-2-propylamine; MOEA: 2-methoxyethylamine; pftb: perfluorinated tert-butoxide; OTf: triflate; TFSI: bis(trifluoromethanesulfonyl)imide. TMP denotes the phosphate here, not the piperidide ligand used in some Hauser bases.
+
+Table 2. Perturbations and outcomes that distinguish contributions to magnesium transfer
+
+| Possible contribution | Matched perturbation | Observation favouring or limiting the explanation | Studies motivating the test |
+| --- | --- | --- | --- |
+| Precursor availability | Change association while constraining bulk transport and the surface | Population-resolved Raman/NMR plus transport controls: a reactive-carrier increase tracks Mg current at unchanged exchange; conductivity or film changes leave the assignment unresolved | [24,82] |
+| Ligand departure or rearrangement | Change donor/anion identity on compatibly conditioned surfaces | Resolved-ligand exchange NMR or validated MD plus Mg-specific current: matched exchange and rate responses support rearrangement; unchanged Mg current locates a later limitation | [25,76,39] |
+| Suppression of unwanted reduction | Follow Mg-specific current, gas and soluble/film products | Gas analysis and soluble/film-product balance: reduced H₂ or decomposition at unchanged exchange favours selectivity; a shell assignment alone does not establish it | [80,31] |
+| Repeated molecular assistance | Track active anion and products with increasing Mg throughput | Calibrated anion assay and products versus Mg throughput: active-species recovery with a repeated kinetic effect supports reuse; survival alone is compatible with a spectator | [20,81] |
+| Persistent intermediate | Measure residence and escape from the occupied state | Residence analysis and sampled free-energy path: a persistent state with a large barrier from its local minimum supports trapping; a low cluster energy alone does not | [32,23] |
+| Retained surface benefit | Change liquid while verifying persistence of the treated surface | Paired liquid replacement with surface/impedance checks: a benefit following an intact film favours surface retention; film dissolution makes a lost benefit ambiguous | [20,88] |
+| Coupled molecular and film effects | Separate the initial liquid response from the retained-surface response | Initial response, product balance and retained-surface test: separate changes requiring both liquid and film favour coupling; CE alone cannot apportion them | [88,90] |
+
+Rows describe overlapping contributions and proposed tests. The cited studies motivate the discrimination; they do not demonstrate every listed measurement or establish anion regeneration. A resolved exchange signal requires a suitable NMR time scale; complementary methods constrain ambiguous assignments. The outer-shell example uses a neutral additive. One electrolyte can contribute through several routes.
