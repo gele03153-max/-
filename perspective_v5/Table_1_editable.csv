@@ -1,0 +1,10 @@
+﻿Design strategy,Representative chemistry,Mg CE (%),Mechanistic question raised by the result,Ref.
+Weakly coordinating anion,Mg(CB₁₁H₁₂)₂/G4,>94.4,Does solvent rearrangement remain accessible as persistent anion association is reduced?,[43] S
+Weakly coordinating anion,Mg perfluorinated pinacolatoborate (Mg-FPB),95,Does weak anion association leave solvent rearrangement as the main limitation?,[47] P
+Promote pair dissociation,Mg(TFSI)₂/DME–G2–BTFE–TEP,95.2,"Does dissociation increase reactive precursor availability, independently of surface and growth changes?",[23] S
+Introduce primary-shell pairing,Weakly solvated amine + strongly coordinating Mg salt,99.6,Pairing suppresses amine reduction and H₂ evolution; does ligand exchange also change?,[79] P
+Reshape solvent coordination,Mg(TFSI)₂/DME–MOPA-1,99.5,"Does modified solvent coordination speed ligand rearrangement, charge transfer, or both?",[75] S
+Mixed-ion coordination,Mg(TFSI)₂ + LiOTf/DME–TMP,98,How much of the benefit comes from altered Mg–DME binding versus the phosphate-rich interface?,[82] P
+Coordinate both salt and solvent,Mg(OTf)₂/G2–MOEA,98.3,How do coordination and distinct electrode interphases share the contribution to reversibility?,[85] P/S
+Chloride complexes + interphase,Mg(pftb)₂ + MgCl₂/THF,99.7,Does a retained hybrid interphase sustain transfer after the original solution is replaced?,[20] P
+Dissociation + interphase,Mg(OTf)₂ + MgCl₂/DME–TEP,99.4,Can faster molecular transfer be separated from suppression of losses by the interphase?,[86] P

@@ -1,0 +1,118 @@
+{
+  "version": 5,
+  "body_prose_words": 6014,
+  "table_words": 587,
+  "body_prose_and_tables_words": 6601,
+  "words_with_abstract_headings_captions_and_tables": 7376,
+  "references": 140,
+  "crossref_abstracts_available": 58,
+  "performance_rows": 9,
+  "concept_rows": 7,
+  "cross_domain_sentences": 4,
+  "citation_links": 210,
+  "native_editable_tables": 2,
+  "native_table_rows_including_headers": [
+    10,
+    8
+  ],
+  "native_table_column_counts": [
+    5,
+    4
+  ],
+  "table_styles": [
+    "three-line",
+    "three-line"
+  ],
+  "table_csv_semantics_match_docx": true,
+  "table1_standalone_matches_main_table": true,
+  "table1_doi_links": 9,
+  "standalone_table1_pages": 1,
+  "embedded_figures": 4,
+  "all_four_figures_revised": true,
+  "native_omml_equations": 1,
+  "pdf_pages": 15,
+  "visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "visual_review_scope": "Every page of the final manuscript render and the standalone Table 1 render visually reviewed.",
+  "header_and_footer_pages_verified": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "figure_caption_pages": {
+    "1": 2,
+    "2": 5,
+    "3": 7,
+    "4": 10
+  },
+  "table1_layout": "portrait three-line table with common CE endpoint",
+  "table_header_pages": {
+    "Design strategy": [
+      4
+    ],
+    "Possible contribution": [
+      7,
+      8
+    ]
+  },
+  "reference_set_retained_from_v3": true,
+  "doi_record_identity_matches": 140,
+  "unique_dois": 140,
+  "all_references_cited": true,
+  "bibliography_csv_ris_bibtex_count": 140,
+  "new_roadmap_section": "5.3",
+  "closing_sentence_verified": "Future magnesium electrolyte discovery should move from searching for a favourable solvation structure towards engineering transferable reaction pathways.",
+  "verification_scope": "DOI record/title identity checks retained from V3; 58 Crossref abstracts available. Original full texts and supporting information have not all been independently audited.",
+  "performance_scope": "P: accessed original-paper abstract; S: supplied AM Perspective. Protocol limits retained. Table 1 uses the reported Mg CE endpoint; mechanistic questions do not claim established rate-limiting steps. Independent protocols are not used for a common-condition ranking.",
+  "file_sizes_bytes": {
+    "DOI_140_readable.md": 31258,
+    "Figure_1.png": 1724255,
+    "Figure_2.png": 1290475,
+    "Figure_3.png": 1346320,
+    "Figure_4.png": 1373383,
+    "Figure_scientific_audit.md": 3319,
+    "Magnesium_Perspective_V5.docx": 4943240,
+    "Magnesium_Perspective_V5.pdf": 1277634,
+    "Manuscript_V5.md": 91748,
+    "Paragraphs_and_table_rows.json": 63821,
+    "Performance_data_source_audit.csv": 2073,
+    "README.md": 1819,
+    "Reference_paragraph_table_map.csv": 194261,
+    "References_140.bib": 64361,
+    "References_140.ris": 72333,
+    "References_DOI_140.csv": 49396,
+    "References_metadata.json": 630509,
+    "Table_1_editable.csv": 1592,
+    "Table_1_three_line_V5.docx": 39458,
+    "Table_2_editable.csv": 1409,
+    "Tables_V5.md": 4958,
+    "V5_中文修改说明.md": 4484
+  }
+}
