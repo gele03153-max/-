@@ -1,0 +1,7 @@
+﻿Transfer contribution and representative chemistry,Reported Mg CE (%),Reported performance context,Matched mechanistic test,Refs.,DOI,Numerical source
+Precursor availability / Mg(TFSI)₂ / DME–G2–BTFE–TEP,95.2,Reversibility in a weakly paired formulation,Relate carrier population to Mg current; match transport and surface history.,[24] via [86],10.1039/d3ee02861e,10.1002/adma.202417652
+Ligand rearrangement / Mg(TFSI)₂ / DME–MOPA-1,99.5,Reversibility with redesigned donor coordination,Compare ligand exchange and Mg current on equally conditioned surfaces.,[76] via [86],10.1126/science.abg3954,10.1002/adma.202417652
+Reduction selectivity / Ion-paired amine electrolyte,99.6,Mg charge recovery over an 800-cycle readout,Quantify H₂ and decomposition products alongside Mg deposition and ligand exchange.,[80],10.1002/aenm.202301544,10.1002/aenm.202301544
+Retained surface benefit / Mg(pftb)₂ + MgCl₂ / THF,99.7,Mg charge recovery over a 3000-cycle readout,Replace the liquid; verify film persistence and retained Mg transfer.,[20],10.1002/adma.202203783,10.1002/adma.202203783
+Coupled liquid and film effects / Mg(OTf)₂ + MgCl₂ / DME–TEP,99.4,Mg∥Mo charge recovery after 3000 h,Vary the liquid and conditioned surface independently; resolve their contributions.,[88],10.1021/acscentsci.6c01164,10.1021/acscentsci.6c01164
+Compatibility at both electrodes / Mg(OTf)₂ / G2–MOEA,98.3,Average Mg CE after 8200 cycles in an asymmetric cell,Retest Mg reversibility after cathode exposure; isolate each electrode response.,[87],10.1002/aenm.202301795,10.1002/aenm.202301795
