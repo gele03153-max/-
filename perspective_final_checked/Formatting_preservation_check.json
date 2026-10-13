@@ -1,0 +1,28 @@
+{
+  "input": "/workspace/attachments/e05115fc-c861-47d7-9bb4-f026550200ad/MS-Beyond Interphase Formation Anion-Regulated Desolvation and Magnesium Transfer Pathways.docx",
+  "output": "/workspace/final_manuscript_checked_delivery/MS_Beyond_Interphase_Formation_checked_polished.docx",
+  "output_bytes": 5109931,
+  "source_sha256": "947c230ad49b2adfe06f52a26953db921bd0fda3ac4f975d1993a503df87f54e",
+  "output_sha256": "1bfd7c6937d229b5b171821f398e41a14506a457cd22afbea81e471c6cd51706",
+  "body_words_before": 5933,
+  "body_words_after": 5951,
+  "abstract_words_before": 168,
+  "abstract_words_after": 150,
+  "text_paragraphs_changed": 77,
+  "bibliography_slots_restored": 146,
+  "bibliography_entries": 147,
+  "doi_unique_count": 147,
+  "only_changed_package_part": [
+    "word/document.xml"
+  ],
+  "complete_nontext_xml_structure_preserved": true,
+  "all_fonts_run_properties_paragraph_properties_tables_sections_and_images_preserved": true,
+  "all_cited_reference_numbers_and_occurrence_order_preserved": true,
+  "local_citation_group_corrections": [
+    "Early prototype [1–3]/later studies [4–5] -> prototype [1–2]/earlier and later studies [3–5]",
+    "Conditioning/alternative salt [116–117] -> separately attributed [116] and [117]"
+  ],
+  "no_reference_added_or_removed": true,
+  "original_rendered_pages": 22,
+  "final_rendered_pages": 22
+}
