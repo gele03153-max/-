@@ -1,0 +1,10 @@
+﻿Design strategy,Representative chemistry,Reported Mg CE (%),Reported readout context,Mechanistic question to test,Refs.
+Weakly coordinating anion,Mg(CB₁₁H₁₂)₂/G4,>94.4,Mg reversibility; value compiled by Zhang et al.,Does solvent rearrangement remain accessible as persistent anion association is reduced?,[43]
+Weakly coordinating anion,Mg perfluorinated pinacolatoborate (Mg-FPB),95,Original report of reversible Mg deposition,Does weak anion association leave solvent rearrangement as the main limitation?,[47]
+Promote pair dissociation,Mg(TFSI)₂/DME–G2–BTFE–TEP,95.2,Mg plating/stripping; value compiled by Zhang et al.,Does dissociation increase reactive precursor availability independently of surface and growth changes?,[23]
+Introduce primary-shell pairing,Weakly solvated amine + strongly coordinating Mg salt,99.6,CE reported for 800 cycles,Pairing suppresses amine reduction and H₂ evolution; does ligand exchange also change?,[79]
+Reshape solvent coordination,Mg(TFSI)₂/DME–MOPA-1,99.5,Mg plating/stripping; value compiled by Zhang et al.,"Does modified solvent coordination speed rearrangement, charge transfer or both?",[75]
+Mixed-ion coordination,Mg(TFSI)₂ + LiOTf/DME–TMP,98,Original report of Mg-metal reversibility,How much comes from altered Mg–DME interaction versus the phosphate-rich interface?,[82]
+Coordinate salt and solvent,Mg(OTf)₂/G2–MOEA,98.3,Reported average CE after 8200 cycles; symmetric lifetime is separate,How do coordination and distinct electrode interphases share the contribution to reversibility?,[85]
+Chloride complexes + interphase,Mg(pftb)₂ + MgCl₂/THF,99.7,CE reported over 3000 cycles; symmetric lifetime is separate,Does a retained hybrid interphase sustain transfer when solution coordination is changed?,[20]
+Dissociation + interphase,Mg(OTf)₂ + MgCl₂/DME–TEP,99.4,"Mg||Mo: 0.5 mA cm⁻², 0.25 mAh cm⁻²; CE reported after 3000 h",Can a molecular transfer gain be separated from suppressed losses at the interphase?,[86]

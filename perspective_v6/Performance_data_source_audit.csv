@@ -1,0 +1,10 @@
+﻿row,reference_number,key,DOI,source_grade,source_location,values_and_protocol_limits,original_abstract_available
+1,43,R61,10.1002/anie.201412202,S,Supplied AM Perspective p.4; boron-cluster discussion,Mg metal compatibility: CE above 94.4%; original current/capacity/substrate/averaging window not independently audited,True
+2,47,R67,10.1002/anie.201902009,P,Original abstract; Mg-FPB result,"95% Mg CE; current, deposited capacity, substrate and averaging window are not specified in the accessed abstract; no average/terminal label inferred",True
+3,23,R96,10.1039/d3ee02861e,S,"Supplied AM Perspective p.5 Table 1, original source ref.96","95.2% Mg CE in secondary summary; the original abstract gives a separate 2 mAh cm-2 result, not an established common CE protocol",True
+4,79,R93,10.1002/aenm.202301544,P,Original abstract; ion-pairing electrolyte,99.6% Mg CE for 800 cycles; no current/capacity/substrate specified in the accessed abstract; complete recipe not established by its description,True
+5,75,R21,10.1126/science.abg3954,S,"Supplied AM Perspective p.5 Table 1, original source ref.21",99.5% Mg plating/stripping CE; original current/capacity/averaging window not independently audited,True
+6,82,R95,10.1002/anie.202304411,P,Original abstract; Mg-metal reversibility,98% Mg CE; composition identity also supported by the original abstract; CE current/capacity/substrate not specified there,True
+7,85,R72,10.1002/aenm.202301795,P/S,"Original abstract for average CE; supplied Perspective p.5 Table 1, original source ref.72, for formulation",98.3% average Mg CE after 8200 cycles; symmetric-cell >5000 h is a separate test and is not combined with this CE,True
+8,20,R53,10.1002/adma.202203783,P,Original abstract; Mg||Cu/Mg||Mg statements,"99.7% Mg CE over 3000 cycles; 0.5/1/2 mA cm-2 lifetime results refer to separate symmetric tests, not assumed CE conditions",True
+9,86,TEP26,10.1021/acscentsci.6c01164,P,Original abstract; Mg||Mo asymmetric-cell statement,99.4% Mg CE after 3000 h at 0.5 mA cm-2 and 0.25 mAh cm-2; symmetric-cell <0.2 V overpotential is a separate test,True

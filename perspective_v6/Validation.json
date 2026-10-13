@@ -1,0 +1,130 @@
+{
+  "version": 6,
+  "body_prose_words": 5898,
+  "table_words": 711,
+  "body_prose_and_tables_words": 6609,
+  "words_with_abstract_headings_captions_and_tables": 7414,
+  "abstract_words": 167,
+  "references": 142,
+  "crossref_abstracts_available": 58,
+  "doi_records_rechecked_this_revision": 142,
+  "performance_rows": 9,
+  "concept_rows": 7,
+  "citation_links": 213,
+  "native_editable_tables": 2,
+  "native_table_rows_including_headers": [
+    10,
+    8
+  ],
+  "native_table_column_counts": [
+    6,
+    4
+  ],
+  "table_styles": [
+    "three-line",
+    "three-line"
+  ],
+  "table_csv_semantics_match_docx": true,
+  "table1_standalone_matches_main_table": true,
+  "table1_doi_links": 9,
+  "standalone_table1_pages": 1,
+  "embedded_figures": 4,
+  "figures_updated_in_v6": [
+    1,
+    2,
+    4
+  ],
+  "figure3_bytes_retained_from_v5": true,
+  "native_omml_equations": 1,
+  "pdf_pages": 15,
+  "visual_review_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "visual_review_scope": "Every page of the final manuscript render and the standalone Table 1 render visually reviewed.",
+  "header_and_footer_pages_verified": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15
+  ],
+  "figure_caption_pages": {
+    "1": 2,
+    "2": 5,
+    "3": 7,
+    "4": 10
+  },
+  "table1_layout": "landscape three-line table with reported CE and readout context",
+  "table_header_pages": {
+    "Design strategy": [
+      4
+    ],
+    "Possible contribution": [
+      7,
+      8
+    ]
+  },
+  "v5_reference_set_retained_with_two_cross_metal_sources": true,
+  "doi_record_identity_matches": 142,
+  "unique_dois": 142,
+  "all_references_cited": true,
+  "bibliography_csv_ris_bibtex_count": 142,
+  "roadmap_section": "5.3",
+  "review_claim_items": 61,
+  "doi_recheck_rows": 142,
+  "worked_example_is_illustrative_not_experimental": true,
+  "closing_sentence_verified": "Future magnesium electrolyte discovery should move from searching for a favourable solvation structure towards engineering transferable reaction pathways.",
+  "verification_scope": "All 142 DOI registry identities/titles rechecked in V6 on 2026-10-13; 58 Crossref abstracts available. Original full texts and supporting information have not all been independently audited.",
+  "performance_scope": "P: accessed original-paper abstract; S: supplied AM Perspective. Protocol limits retained. Table 1 uses reported Mg CE and readout context; three values remain traceable secondary summaries. No missing protocols or mean/terminal statistics were invented. Mechanistic questions do not claim established rate-limiting steps. Independent protocols are not used for a common-condition ranking.",
+  "file_sizes_bytes": {
+    "DOI_142_readable.md": 31569,
+    "Figure_1.png": 1467813,
+    "Figure_2.png": 1698975,
+    "Figure_3.png": 1346320,
+    "Figure_4.png": 1734733,
+    "Figure_scientific_audit.md": 3266,
+    "Magnesium_Perspective_V6.docx": 5414696,
+    "Magnesium_Perspective_V6.pdf": 1327390,
+    "Manuscript_V6.md": 93150,
+    "Paragraphs_and_table_rows.json": 64369,
+    "Performance_data_source_audit.csv": 2109,
+    "README.md": 1792,
+    "Reference_paragraph_table_map.csv": 200678,
+    "References_142.bib": 65129,
+    "References_142.ris": 73508,
+    "References_DOI_142.csv": 49627,
+    "References_DOI_recheck.csv": 37396,
+    "References_metadata.json": 636671,
+    "Review_claims_and_responses.csv": 20505,
+    "Table_1_editable.csv": 2029,
+    "Table_1_three_line_V6.docx": 39657,
+    "Table_2_editable.csv": 1724,
+    "Tables_V6.md": 5837,
+    "V6_中文修改说明.md": 3676,
+    "V6_逐条审查与回应.md": 24782
+  }
+}
