@@ -1,0 +1,4 @@
+﻿Cycles_X,Rate_ratio_Y,Point_ID,Ref_ID,Temperature_C,Symmetry_assumption,Charge_rate_C,Discharge_rate_C,Reported_single_current,Current_unit,Retention_percent,Endpoint_basis,DOI,Source_location,Notes
+2000,2,This_work_minus40_cycling,This work,-40,false,0.5,1,,,96,reported user cycling endpoint,,Original Sheet1!J3,用户提供的实验结果；仅核对原表转录及算术，未独立验证实验。96%/2000/0.5C-1C；原表普通Cycling栏；未报告具体电池封装形态，不能擅自写coin。
+200,10,This_work_minus50_cycling,This work,-50,false,0.1,1,,,99,reported user cycling endpoint,,Original Sheet1!J4,用户提供的实验结果；仅核对原表转录及算术，未独立验证实验。99%/200/0.1C-1C；原表普通Cycling栏；未报告具体电池封装形态，不能擅自写coin。
+80,1,This_work_minus40_pouch,This work,-40,false,0.2,0.2,,,100,reported user cycling endpoint,,Original Sheet1!M3,用户提供的实验结果；仅核对原表转录及算术，未独立验证实验。100%/80/0.2C-0.2C；pouch (L3 and M2 explicitly identify pouch cell)

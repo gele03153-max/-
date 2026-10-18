@@ -1,6 +1,4 @@
-低温双离子电池：主表文献 DOI（12篇，尚未达到20篇要求）
-日期窗口：2021-10-17至2026-10-17；低温：<0°C；分区：2025中科院大类1区公开二级来源。
-A=正文+SI；B=摘要+SI；C=仅摘要。不能将所有字段视为已完全核验。
+V2低温双离子电池主表：12篇独立文献，未达到20篇。
 
 R01 | Chemical Engineering Journal | 2024-05-30 | A：正文＋SI
 Electrolyte design for high power dual-ion battery with graphite cathode for low temperature applications
@@ -46,6 +44,6 @@ R11 | Angewandte Chemie International Edition | 2024-08-14 | C：仅摘要核实
 Unlocking Fast Potassium Ion Kinetics: High‐Rate and Long‐Life Potassium Dual‐Ion Battery for Operation at −60 °C
 https://doi.org/10.1002/anie.202406765
 
-R12 | Advanced Materials | 2026-06-25 | C：仅摘要核实
+R12 | Advanced Materials | 2026-06-25 | B：正文核实；SI未取得
 Sulfur‐Mediated Charge Delocalization Enables High‐Voltage p‐Type Polymer Cathodes for Ultralow‐Temperature Potassium Dual‐Ion Full Cells
 https://doi.org/10.1002/adma.73760

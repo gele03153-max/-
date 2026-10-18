@@ -1,0 +1,20 @@
+{
+  "independent_main_papers": 12,
+  "main_test_rows": 17,
+  "original_A_to_M_cells_reaudited": 169,
+  "original_cells_changed_or_completed": 10,
+  "strict_points": 3,
+  "strict_published_literature_points": 0,
+  "conditional_literature_points": 10,
+  "all_protocol_records": 22,
+  "still_abstract_only_refs": [
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11"
+  ],
+  "standalone_charge_discharge_rates_not_verified_in_literature": true,
+  "original_A1_N4_values_styles_merges_preserved": true,
+  "plot_protocol_and_assumption_consistency_checks": "passed"
+}

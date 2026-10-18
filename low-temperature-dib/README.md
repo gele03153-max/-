@@ -1,32 +1,21 @@
-# 低温双离子电池（DIB）文献与性能核验稿
+# 低温双离子电池文献、数据复核与对比图
 
-当前整理 **12篇独立文献、13条温度/体系记录**，尚未达到至少20篇的要求。另列19条待核实、排除或综述追溯记录。5篇取得正文及SI，1篇取得摘要及SI，6篇仅能核实原始摘要中的部分结果。
+**最新为V2逐项复核稿**：12篇独立文献、17条条件记录。原有169个字段已逐项检查，10处更新。尚未达到至少20篇，未能核实的字段继续标NV。
 
-检索窗口：2021-10-17 至 2026-10-17；测试温度低于0°C；阳离子种类不限。分区按 **2025年3月版中科院大类分区的公开二级来源**核对，官方原表尚未取得。本资料是可追溯核验稿，尚不是满足全部要求的SI终稿。
+- [浏览最新性能对比表](performance-table.md)
+- [查看V2对比图、Origin数据及下载说明](revision-v2/README.md)
+- [下载修订Excel](battery-performance.xlsx?raw=true)
+- [下载Origin可直接使用的XLSX](revision-v2/origin-data-v2.xlsx?raw=true)
+- [下载V2文件及新增核验证据ZIP](revision-v2/audit-and-plot-v2.zip?raw=true)
+- [文献与DOI](references.md) · [DOI纯文本](doi-list.txt)
+- [旧基础原始文献/SI资料包](dib-verification-evidence.zip?raw=true)
 
-## 浏览
+## 图的数据标准
 
-- [性能对比表（网页阅读）](performance-table.md)
-- [文献与DOI（网页阅读）](references.md)
-- [核验说明、原文冲突与未完成项](verification-notes.md)
-- [全部31条筛选记录（CSV）](screening-records.csv)
-- [逐项结构化证据（JSON）](verification-records.json)
+横轴：同次低温循环次数；纵轴：该次试验的放电倍率/充电倍率，无量纲。
 
-## 下载
+严格图仅3个原模板中分向倍率明确的This work点；用户数据仅做转录及算术核对，未独立验证实验。条件性比较图额外展示10个空心文献测试点，其名义比值1基于对称电流假设，**不是独立核实的两向倍率比**。Origin文件把严格值与假设值分列，图中保留醒目脚注。
 
-- [Excel性能对比表](battery-performance.xlsx?raw=true)（保留上传模板的This work数据）
-- [DOI清单](doi-list.txt?raw=true)
-- [全部筛选记录CSV](screening-records.csv?raw=true)
-- [正文、补充信息及核验资料包，约38 MB](dib-verification-evidence.zip?raw=true)
+检索窗口2021-10-17至2026-10-17，温度<0°C，阳离子不限。期刊分区按2025年3月中科院大类分区公开二级来源核对，官方原表尚未取得。半电池/全电池、不同温度与配方，以及软包演示/循环均保留条件说明。NR与NV均不等于0或No。
 
-Excel也可在本目录打开 [battery-performance.xlsx](battery-performance.xlsx)，然后使用 GitHub 的下载按钮。
-
-## 阅读数据
-
-`NV` = 本次尚未核实；`NR` = 已检查可取得资料，但未报告可直接填入该字段的数值；二者均不等于0或No。`[calc.]` 为根据作者报告容量或Source Data计算的值，公式和分母见Excel“计算审计”页。表内未采用图线估读。
-
-室温和低温配方、半电池与全电池、软包演示与软包循环分别标注。低温/室温容量比、倍率容量保持率、循环保持率不能互换。R10两个温度来自同一论文，仅计1篇。
-
-## 数据来源
-
-文献元数据、原始摘要、可取得正文及SI来自出版社提交的Crossref记录、Europe PMC/PubMed、NIMS机构仓储和ACS官方Figshare。资料包附原始文件来源与SHA-256校验清单。具体限制及原文内部冲突见核验说明与Excel证据页。
+[查看逐项核验、原文冲突及剩余未完成项](verification-notes.md)
