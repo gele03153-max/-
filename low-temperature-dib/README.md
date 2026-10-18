@@ -14,11 +14,10 @@
 
 ## 下载
 
-- [Excel性能对比表](https://github.com/gele03153-max/-/releases/download/dib-low-temperature-verification-2026-10-18/battery-performance.xlsx)（保留上传模板的This work数据）
-- [DOI清单](https://github.com/gele03153-max/-/releases/download/dib-low-temperature-verification-2026-10-18/doi-list.txt)
-- [全部筛选记录CSV](https://github.com/gele03153-max/-/releases/download/dib-low-temperature-verification-2026-10-18/screening-records.csv)
-- [正文、补充信息及核验资料包，约38 MB](https://github.com/gele03153-max/-/releases/download/dib-low-temperature-verification-2026-10-18/dib-verification-evidence.zip)
-- [Release下载页](https://github.com/gele03153-max/-/releases/tag/dib-low-temperature-verification-2026-10-18)
+- [Excel性能对比表](battery-performance.xlsx?raw=true)（保留上传模板的This work数据）
+- [DOI清单](doi-list.txt?raw=true)
+- [全部筛选记录CSV](screening-records.csv?raw=true)
+- [正文、补充信息及核验资料包，约38 MB](dib-verification-evidence.zip?raw=true)
 
 Excel也可在本目录打开 [battery-performance.xlsx](battery-performance.xlsx)，然后使用 GitHub 的下载按钮。
 
