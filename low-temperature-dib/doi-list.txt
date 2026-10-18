@@ -1,0 +1,51 @@
+低温双离子电池：主表文献 DOI（12篇，尚未达到20篇要求）
+日期窗口：2021-10-17至2026-10-17；低温：<0°C；分区：2025中科院大类1区公开二级来源。
+A=正文+SI；B=摘要+SI；C=仅摘要。不能将所有字段视为已完全核验。
+
+R01 | Chemical Engineering Journal | 2024-05-30 | A：正文＋SI
+Electrolyte design for high power dual-ion battery with graphite cathode for low temperature applications
+https://doi.org/10.1016/j.cej.2024.152602
+
+R02 | Journal of the American Chemical Society | 2025-01-09 | B：摘要＋SI；正文未取得
+Realizing an Energy-Dense Potassium Metal Battery at −40 °C via an Integrated Anode-Free and Dual-Ion Strategy
+https://doi.org/10.1021/jacs.4c12126
+
+R03 | Advanced Materials | 2025-11-19 | A：正文＋SI
+Comprehensive Understanding of Accelerated Kinetics Driven by Anion–Diluent Dynamics Enabling Wide Temp Operation in Dual‐Ion Batteries
+https://doi.org/10.1002/adma.202513832
+
+R04 | National Science Review | 2025-11-22 | A：正文＋SI；DIB按机制判定
+A multisite super-crosslinked sulfur-heterocyclic polymer cathode for high-voltage and low-temperature aluminum-organic batteries.
+https://doi.org/10.1093/nsr/nwaf526
+
+R05 | Nature Communications | 2026-06-19 | A：正文＋SI＋Source Data
+Enabling high-voltage aqueous dual-ion batteries capable of working at -40 °C in a low-concentration salt electrolyte.
+https://doi.org/10.1038/s41467-026-74628-2
+
+R06 | Chemical Science | 2026-08-28 | A：正文＋SI
+Donor-strength tuning enables a high-voltage all-p-type polymer cathode with fast redox kinetics for wide-temperature sodium dual-ion batteries
+https://doi.org/10.1039/d6sc05745d
+
+R07 | Advanced Functional Materials | 2022-02-14 | C：仅摘要核实
+All‐Climate and Ultrastable Dual‐Ion Batteries with Long Life Achieved via Synergistic Enhancement of Cathode and Anode Interfaces
+https://doi.org/10.1002/adfm.202201038
+
+R08 | Advanced Energy Materials | 2022-12-05 | C：仅摘要核实
+Dihydrophenazine‐Based Conjugated Microporous Polymer Cathodes with Enhanced Electronic and Ionic Conductivities for High‐Performance Aluminum Dual‐Ion Batteries
+https://doi.org/10.1002/aenm.202203253
+
+R09 | Advanced Functional Materials | 2023-01 | C：仅摘要核实
+Synergistic Solvation of Anion: An Effective Strategy toward Economical High‐Performance Dual‐Ion Battery
+https://doi.org/10.1002/adfm.202212287
+
+R10 | Advanced Materials | 2023-11-27 | C：仅摘要核实
+Potassium-Based Dual-Ion Batteries Operating at -60 °C Enabled By Co-Intercalation Anode Chemistry.
+https://doi.org/10.1002/adma.202307592
+
+R11 | Angewandte Chemie International Edition | 2024-08-14 | C：仅摘要核实
+Unlocking Fast Potassium Ion Kinetics: High‐Rate and Long‐Life Potassium Dual‐Ion Battery for Operation at −60 °C
+https://doi.org/10.1002/anie.202406765
+
+R12 | Advanced Materials | 2026-06-25 | C：仅摘要核实
+Sulfur‐Mediated Charge Delocalization Enables High‐Voltage p‐Type Polymer Cathodes for Ultralow‐Temperature Potassium Dual‐Ion Full Cells
+https://doi.org/10.1002/adma.73760

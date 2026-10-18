@@ -1,0 +1,17 @@
+{
+  "main_papers": 12,
+  "temperature_records": 13,
+  "source_coverage": {
+    "fulltext_and_SI": 5,
+    "abstract_and_SI": 1,
+    "abstract_only": 6
+  },
+  "screening_records": 31,
+  "shortfall_to_20": 8,
+  "original_values_styles_merges_preserved": true,
+  "all_main_journals_CAS2025_major1_in_public_secondary_source": true,
+  "unmatched_excerpt_locators": [],
+  "output": "/workspace/outputs/dib_research/交付文件/电池性能对比_已核验数据与待补项.xlsx",
+  "source_bundle_bytes": 37822222,
+  "source_files_with_hashes": 43
+}
