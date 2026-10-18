@@ -1,17 +1,20 @@
 {
-  "main_papers": 12,
-  "temperature_records": 13,
-  "source_coverage": {
-    "fulltext_and_SI": 5,
-    "abstract_and_SI": 1,
-    "abstract_only": 6
-  },
-  "screening_records": 31,
-  "shortfall_to_20": 8,
-  "original_values_styles_merges_preserved": true,
-  "all_main_journals_CAS2025_major1_in_public_secondary_source": true,
-  "unmatched_excerpt_locators": [],
-  "output": "/workspace/outputs/dib_research/交付文件/电池性能对比_已核验数据与待补项.xlsx",
-  "source_bundle_bytes": 37822222,
-  "source_files_with_hashes": 43
+  "independent_main_papers": 12,
+  "main_test_rows": 17,
+  "original_A_to_M_cells_reaudited": 169,
+  "original_cells_changed_or_completed": 10,
+  "strict_points": 3,
+  "strict_published_literature_points": 0,
+  "conditional_literature_points": 10,
+  "all_protocol_records": 22,
+  "still_abstract_only_refs": [
+    "R07",
+    "R08",
+    "R09",
+    "R10",
+    "R11"
+  ],
+  "standalone_charge_discharge_rates_not_verified_in_literature": true,
+  "original_A1_N4_values_styles_merges_preserved": true,
+  "plot_protocol_and_assumption_consistency_checks": "passed"
 }
